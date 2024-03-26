@@ -1,18 +1,32 @@
 ## Your idea
 
-Use this step to plan your ... . You can plan by just thinking; tinkering; drawing or writing; or however you like! 
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+In this step you will plan your website, pick a topic and design the look of your what your webpage is about.
+</div>
+<div>
+![TO-DO add image of website design](images/step-two.jpg){:width="300px"}
+</div>
+</div>
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
-
-### Why are you making ... ?
+### Which part of your world would you like to share?
 
 --- task ---
 
-Think about the purpose of your ... . 
+Think about the purpose of your website, which part of your world would you like to invite someone into? 
 
-It could be:
-- 
+It could be:   
++ 🎊 Cultural - something from your culture; a festival, celebration, custom or special location
++ 😁 Hobbies - a favourite hobby or passtime; Books, TV, Movies, obsession or fandom
++ ⚽️ Sports - a sport you play or watch
++ 👗 Fashion - style or fashion; brands, trends, decades or designers
++ 💻 Tech - technology; programming, computers and the latest tech
++ 📙 History - a piece or era of history; movements, people or places throughout time
++ 🔬 Science - a field or area of research; studies, discoveries, recent or historical
 
+**Tip:** Choose something that you are interested in, some part of your world that you can invite a user into.
+
+You might want to build on the pages you made in [Pick your favourite]() or [You're the expert!]() and build it them a larger website.
 
 --- /task ---
 
@@ -20,34 +34,38 @@ It could be:
 
 --- task ---
 
-Think about who you will make your ... for (your **audience**).
+Think about who you will make your website for, who are you inviting into your world? It might be helpful, to consider what you want to share about your topic.
 
---- /task ---
-
-### Get started
-
-
---- task ---
-
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
-
---- collapse ---
----
-title: Working offline
----
-
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
-
---- /collapse ---
-
-Use ... , a pen and paper, or both to plan ideas for your book.
++ What does everyone need to know about your topic?
++ How will you layout the information?
++ What can you do to make the website and topic **awesome** for them?
 
 --- /task ---
 
 --- task ---
 
-Any other info/content
+If you have paper and a pen or pencil, you could write down your ideas for your webpage.
+
+What colours will you use?
+
+Will you need any particular images?
+
+What will the titles of your pages be?
 
 --- /task ---
 
---- save ---
+--- task ---
+
+Open the [Share your world starter project](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. The Raspberry Pi editor will open in a new tab.
+
+[[[editor-tour-html]]]
+
+--- /task ---
+
+--- task ---
+
+Change the `<title>` element text to the title of your page. 
+
+[[[web-add-title-head]]]
+
+--- /task ---

@@ -1,38 +1,28 @@
 ## Introduction
 
-You are going to create ... Your ... will need to meet the **project brief**.
+In this project you will use the skills you have developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills and share a part of your world on the web.
 
-<mark>this particular boxout optional: maybe a good idea if first path</mark>
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+The <span style="color: #0faeb0">Love animals? Games? Books? Build a website about it!</span> Turn your favorite things into a website. Share fun facts, create quizzes, or write reviews – show everyone why you love what you love!
 </p>
 
 You will:
-+ 
-+ 
-+ 
++ Build an interactive website to share a part of your world
++ Create multiple pages and link them together
++ Use CSS to style your website
++ Use JavaScript to add interactivity to your site
 
 --- no-print ---
 
 --- task ---
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
-
 ### Try it
 
-Description of what to do or think about when looking at the example.
+Can you identify the ways CSS and Javascrpt have been used to make this website interactive? What HTML elements have been used to present the information?
 
-</div>
-<div>
+**Coding Journey**: [See inside](https://staging-editor.raspberrypi.org/en/projects/share-your-world-coding){:target="_blank"}
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
-</div>
-
-</div>
-</div>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/share-your-world-coding" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- /task ---
 
@@ -40,18 +30,23 @@ Description of what to do or think about when looking at the example.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Project title
+### PROJECT BRIEF: Build an interactive website!
 <hr style="border-top: 2px solid black;">
 
-Brief explanation of aims of project. 
+Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS and Javascript skills to welcome someone into a part of your world! Share your culture, interests, hobbies or expertise with the world. It is what the world wide web was designed for! 
 
-Your ... should:
-+ ...
-+ ...
+Your website should:
++ Include more than one page and a navigation bar
++ Use a grid or flex layout 
++ Use JavaScript to update a page element
++ Include alt-text for images
 
-Your ... could:
-+ ...
-+ ...
+Your website could:
++ Have different (adaptive) layouts
++ Use the JavaScript observer to animate page elements
++ Use multiple JavaScript events to update a page element
++ Make use of localStorage to keep changes
+
 </div>
 
 --- no-print ---
@@ -60,22 +55,14 @@ Your ... could:
 
 --- task ---
 
-Think about ... as you investigate these example projects to get more ideas:
+As you look at these webpages, consider what makes them useful and informative, as well as fun and accessible:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
-</div>
+⭐ Share your finished project for a chance of it being featured here.
 
-**Scratch blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
+<div>
+**⭐ TO_DO Add more examples**: [See inside](https://editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
+<div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
@@ -84,8 +71,8 @@ Click on the character and object to choose the ones you want in the story, then
 
 --- print-only ---
 
-![Complete project](images/showcase_static.png)
+![Complete project](images/favourite.png)
+![Complete project](images/pico.png)
+![Complete project](images/filter.png)
 
 --- /print-only ---
-
-

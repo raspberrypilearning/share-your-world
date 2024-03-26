@@ -1,16 +1,18 @@
----
-title: invent-project-template
+title: Sahre your world
 hero_image: images/banner.png
-description: invent-project-template description
-version: 4
+description: Build an inteeractive website to share a part of your world
+version: 1
 listed: false
 copyedit: false
-last_tested: '2021-03-26'
+last_tested: "2024-3-25"
 steps:
-- title: Introduction
-- title: Your idea
-- title: Build and test
-- title: Share
-- title: Reflection
-- title: Upgrade your project
-- title: What next?
+  - title: Introduction
+  - title: Your topic
+  - title: Build and test
+    completion: engaged
+  - title: Share
+    completion: internal
+  - title: Reflection
+    completion: external
+  - title: Upgrade your project
+  - title: What next?

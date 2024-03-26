@@ -1,73 +1,103 @@
 ## Reflection
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+## Reflection
 
-Does your ... have:
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
+
+Does your website have:
 
 --- task ---
 
-something
+Multiple webpages, with different content and a navigation bar to help a user move between them?
 
 --- /task ---
 
 --- task ---
 
-something
-
---- /task ---
-
-
-Your ... could also have:
-
---- task ---
-
-something
+A colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
 
 --- /task ---
 
 --- task ---
 
-something
-
---- /task ---
-
-
-Reflecting about how you made your ... will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
---- task ---
-
-How did you get your ideas? 
+Multiple types of layout, and at least one grid to organise your content?
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Use JavaScript and the DOM to update HTML page elements?
 
 --- /task ---
 
 --- task ---
 
-<mark> some ideas, delete as needed </mark> Mistakes are the "portals of discovery" (James Joyce, Ulysses). 
-The Nobel Prize-winning physicist Niels Bohr said, “An expert is a person who has made all the mistakes that can be made”.
-Mistakes are powerful.
-Mistakes are empowering. 
-
-What mistakes did you make and how did they help you create your ... ?
+Accessibility through a good colour contrast and easily readable font sizes?
 
 --- /task ---
 
-### Now you are (the author of a digital book)!
+
+Your webpage could:
+
+--- task ---
+
+Have different adaptive layouts that respond to the size of the web browser.
+
+--- /task ---
+
+--- task ---
+
+Use an animation and a JavaScript observer to add some movement and interactivity.
+
+--- /task ---
+
+--- task ---
+
+Use multiple JavaScript events to update HTML page elements, changing text or making them appear and disappear.
+
+--- /task ---
+
+--- task ---
+
+Be shared to the Raspberry Pi Foundation community gallery to inspire others.
+
+--- /task ---
+
+
+When you reflect on how you made your website, it will help you in your future projects.
+
+Answer the questions below. You can draw, write, type in a document, talk to someone, or answer the questions in your own creative way that works best for you.
+
+--- task ---
+
+How did you choose the topic for your website? 
+
+--- /task ---
+
+--- task ---
+
+Which HTML, CSS or JavaScript technique do you like best?
+
+--- /task ---
+
+--- task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Modern web design has turned websites from static and boring walls of information - into a way to provide fun and engaging experiences to a user. Taking them on a journey and transporting them to somewhere completely new.
+</p>
+
+In the 'More Web' path you have built impressive new CSS and JavScript skills to make your websites pop with excitement, which of these new skills was your favourite to use? 
+
+--- /task ---
+
+### Now you are a skilled web developer & designer!
 
 Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Where will you take your new powers? Who will you show your website to? What will you make next?
 
 --- /task ---
 
-![scratch cat in at party hat](images/reflect.png)
 

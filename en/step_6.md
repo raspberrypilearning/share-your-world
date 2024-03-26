@@ -2,21 +2,30 @@
 
 If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
 
-You could:
-- ...
-- ...
+--- task ---
 
-Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+On your website you could:
 
-<mark> Optional </mark>Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+**Add to the website**
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
+Add new pages to expand the journey for the user
 
-Take a look at some I made you a book projects created by community members in the Raspberry Pi Foundation’s studio of I made you a book Community Projects [See inside](https://scratch.mit.edu/studios/29092393/){:target="_blank"}.
+**Add more content**
++ New sections with different layouts
++ More content for people to read and discover
++ Add to existing content to dive a little deeper
 
+**Improve the visual design**
++ Use interaction styling to change elements when a user interacts with them
++ Add more colours
++ Add more fonts
++ Change the grid layouts
++ Make the design responsive
 
---- save ---
+**Add more interaction with JavaScript**
++ Create new observers to add animations
++ Use events to update more of the content
++ Use localStorage to save changes made by the user
++ Add choices so the user can make the website their own!
 
+--- /task ---
