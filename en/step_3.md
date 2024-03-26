@@ -184,7 +184,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[events-javascript]]]
 
-[[[writing-functions-javascript]]]
+[[[writing-js-functions]]]
 
 #### Tips for writing JavaScript
 
