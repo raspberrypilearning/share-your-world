@@ -194,7 +194,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[variables-constants-js]]]
 
-<!-- [[[arrays-javascript]]] -->
+[[[arrays-javascript]]]
 
 [[[date-time-javascript]]]
 
