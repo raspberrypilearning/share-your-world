@@ -30,9 +30,9 @@ Use your colour palettes to set text and background colours.
 
 Choose fonts to use on your webpage.
 
-[[[web-fonts]]]
-
 [[[google-fonts]]]
+
+[[[web-fonts]]]
 
 --- /task ---
 
@@ -40,7 +40,7 @@ Choose fonts to use on your webpage.
 
 --- task ---
 
-Inside of `index.html` start to create your homepage
+Open `index.html` and start to create your homepage
 
 [[[overall-page-structure]]]
 
@@ -75,8 +75,6 @@ Create new files for your other pages, add them to your navigation bar.
 Create the content of your website and add CSS styling to make it look awesome!
 
 #### HTML
-
-[[[overall-page-structure]]]
 
 [[[full-width-section]]]
 

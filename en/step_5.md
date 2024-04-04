@@ -1,7 +1,5 @@
 ## Reflection
 
-## Reflection
-
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
 
 Does your website have:

@@ -13,20 +13,20 @@ In this step you will plan your website, pick a topic and design the look of you
 
 --- task ---
 
-Think about the purpose of your website, which part of your world would you like to invite someone into? 
+Think about the purpose of your website: Which part of your world would you like to show off? 
 
 It could be:   
-+ 🎊 Cultural - something from your culture; a festival, celebration, custom or special location
-+ 😁 Hobbies - a favourite hobby or passtime; Books, TV, Movies, obsession or fandom
++ 🎊 Cultural - something from your culture: a festival, celebration, custom or special location
++ 😁 Hobbies - a favourite hobby or passtime: Books, TV, Movies, obsession or fandom
 + ⚽️ Sports - a sport you play or watch
-+ 👗 Fashion - style or fashion; brands, trends, decades or designers
-+ 💻 Tech - technology; programming, computers and the latest tech
-+ 📙 History - a piece or era of history; movements, people or places throughout time
-+ 🔬 Science - a field or area of research; studies, discoveries, recent or historical
++ 👗 Fashion - style: brands, trends, decades or designers
++ 💻 Tech - technology: programming, computers and the latest tech
++ 📙 History - a piece or era of history: events, people or places throughout time
++ 🔬 Science - an area of research: studies, discoveries, recent or historical
 
-**Tip:** Choose something that you are interested in, some part of your world that you can invite a user into.
+**Tip:** Choose something that you are interested in. A part of your world that you can invite the user into.
 
-You might want to build on the pages you made in [Pick your favourite]() or [You're the expert!]() and build it them a larger website.
+You might want to build on the pages you made in [Pick your favourite](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} or [You're the expert!](https://projects.raspberrypi.org/en/projects/youre-the-expert){:target="_blank"} and build it into a larger website.
 
 --- /task ---
 
@@ -34,7 +34,7 @@ You might want to build on the pages you made in [Pick your favourite]() or [You
 
 --- task ---
 
-Think about who you will make your website for, who are you inviting into your world? It might be helpful, to consider what you want to share about your topic.
+Think about who you will make your website for. **Who** are you inviting into your world? It might be helpful to consider what you want to share about your topic.
 
 + What does everyone need to know about your topic?
 + How will you layout the information?

@@ -3,7 +3,7 @@
 In this project you will use the skills you have developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills and share a part of your world on the web.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-The <span style="color: #0faeb0">Love animals? Games? Books? Build a website about it!</span> Turn your favorite things into a website. Share fun facts, create quizzes, or write reviews – show everyone why you love what you love!
+Love animals? Games? Books? <span style="color: #0faeb0">Build a website about it!</span> Turn your favorite things into a website. Share fun facts, create quizzes, or write reviews – show everyone why you love what you love!
 </p>
 
 You will:
@@ -36,7 +36,7 @@ Can you identify the ways CSS and Javascrpt have been used to make this website 
 Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS and Javascript skills to welcome someone into a part of your world! Share your culture, interests, hobbies or expertise with the world. It is what the world wide web was designed for! 
 
 Your website should:
-+ Include more than one page and a navigation bar
++ Include more than one page and use a navigation bar
 + Use a grid or flex layout 
 + Use JavaScript to update a page element
 + Include alt-text for images
@@ -62,7 +62,7 @@ As you look at these webpages, consider what makes them useful and informative, 
 <div>
 **⭐ TO_DO Add more examples**: [See inside](https://editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
 <div>
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
