@@ -26,6 +26,9 @@ Add new pages to expand the journey for the user
 + Create new observers to add animations
 + Use events to update more of the content
 + Use localStorage to save changes made by the user
+
+[[[local-storage]]]
+
 + Add choices so the user can make the website their own!
 
 --- /task ---
