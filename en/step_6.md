@@ -27,7 +27,7 @@ Add new pages to expand the journey for the user
 + Use events to update more of the content
 + Use localStorage to save changes made by the user
 
-[[[local-storage]]]
+[[[local-storage-javascript]]]
 
 + Add choices so the user can make the website their own!
 
