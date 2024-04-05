@@ -26,7 +26,7 @@ It could be:
 
 **Tip:** Choose something that you are interested in. A part of your world that you can invite the user into.
 
-You might want to build on the pages you made in [Pick your favourite](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} or [You're the expert!](https://projects.raspberrypi.org/en/projects/youre-the-expert){:target="_blank"} and build it into a larger website.
+You might want to build on the pages you made in [Pick your favourite](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} or [Quiz time!](https://projects.raspberrypi.org/en/projects/quiz-time){:target="_blank"} and build it into a larger website.
 
 --- /task ---
 
