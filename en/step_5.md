@@ -51,7 +51,7 @@ Use an animation and a JavaScript observer to add some movement and interactivit
 
 --- task ---
 
-Use multiple JavaScript events to update HTML page elements, changing text or making them appear and disappear.
+Use multiple JavaScript events to update HTML page elements to change the text or make the whole element appear or disappear.
 
 --- /task ---
 
@@ -81,10 +81,12 @@ Which HTML, CSS or JavaScript technique do you like best?
 --- task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Modern web design has turned websites from static and boring walls of information - into a way to provide fun and engaging experiences to a user. Taking them on a journey and transporting them to somewhere completely new.
+Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. The web takes users on a journey and transports them to somewhere completely new!
 </p>
 
-In the 'More Web' path you have built impressive new CSS and JavScript skills to make your websites pop with excitement, which of these new skills was your favourite to use? 
+In the 'More web' path you have built impressive new CSS and JavaScript skills to make your websites pop with excitement. 
+
+Which of these new skills was your favourite to use?
 
 --- /task ---
 
@@ -97,5 +99,3 @@ Take a moment to celebrate what you have made.
 Where will you take your new powers? Who will you show your website to? What will you make next?
 
 --- /task ---
-
-
