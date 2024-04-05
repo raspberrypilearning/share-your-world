@@ -260,6 +260,4 @@ Check that your website is accessible with colours, alt-text and looks great on 
 
 [[[web-alt-text]]]
 
-[[[editor-resizing]]]
-
 --- /task ---
