@@ -20,9 +20,9 @@ You will:
 
 Can you identify the ways CSS and Javascrpt have been used to make this website interactive? What HTML elements have been used to present the information?
 
-**Coding Journey**: [See inside](https://staging-editor.raspberrypi.org/en/projects/share-your-world-coding){:target="_blank"}
+**Coding Journey**: [See inside](https://editor.raspberrypi.org/en/projects/share-your-world-coding){:target="_blank"}
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/share-your-world-coding" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-coding" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- /task ---
 
