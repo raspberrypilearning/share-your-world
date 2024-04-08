@@ -40,12 +40,12 @@ section {
 /* Animations */
 
 @keyframes appear {
-from {
-  opacity: 0;
-}
-to {
-  opacity: 1;
-}
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .fade-in {
@@ -54,14 +54,14 @@ to {
 }
 
 @keyframes grow {
-from {
+  from {
     transform: scale(0);
     opacity: 0;
-}
-to {
+  }
+  to {
     transform: scale(1);
     opacity: 1;
-}
+  }
 }
 
 .grow-in {
@@ -70,14 +70,14 @@ to {
 }
 
 @keyframes rise {
-from {
+  from {
     transform: translateY(20%);
     opacity: 0;
-}
-to {
+  }
+  to {
     transform: translateY(-70%);
     opacity: 1;
-}
+  }
 }
 
 .rise-in {
@@ -87,14 +87,14 @@ to {
 }
 
 @keyframes slide-in-left {
-from {
+  from {
     transform: translatex(-70%);
     opacity: 0;
-}
-to {
+  }
+  to {
     transform: translateX(0%);
     opacity: 1;
-}
+  }
 }
 
 .slide-left {
@@ -103,14 +103,14 @@ to {
 }
 
 @keyframes slide-in-right {
-from {
+  from {
     transform: translatex(70%);
     opacity: 0;
-}
-to {
+  }
+  to {
     transform: translateX(0%);
     opacity: 1;
-}
+  }
 }
 
 .slide-right {
