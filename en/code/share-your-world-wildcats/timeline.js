@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
       renderTimelineEvents();
     } else {
       // Initial events
-        let historicalEvents = [
+        var historicalEvents = [
           { year: 1977, event: "Wildcats formed" },
           { year: 1980, event: "Joined National League" },
           { year: 1996, event: "Won Championship trophy" },
