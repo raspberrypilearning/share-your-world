@@ -60,9 +60,10 @@ As you look at these webpages, consider what makes them useful and informative, 
 ⭐ Share your finished project for a chance of it being featured here.
 
 <div>
-**⭐ TO_DO Add more examples**: [See inside](https://editor.raspberrypi.org/en/projects/raspberry-pi-pico){:target="_blank"}
+
+**Wildcats** [See inside](https://editor.raspberrypi.org/en/projects/share-your-world-wildcats){:target="_blank"}
 <div>
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/raspberry-pi-pico" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-wildcats" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
@@ -71,8 +72,6 @@ As you look at these webpages, consider what makes them useful and informative, 
 
 --- print-only ---
 
-![Complete project](images/favourite.png)
-![Complete project](images/pico.png)
-![Complete project](images/filter.png)
+![Wildcats complete project](images/wildcats.png)
 
 --- /print-only ---
