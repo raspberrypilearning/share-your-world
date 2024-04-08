@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
   function loadEventsFromLocalStorage() {
     const storedEvents = localStorage.getItem("historicalEvents");
     if (storedEvents) {
-      historicalEvents = JSON.parse(storedEvents);
-      renderTimelineEvents();
+      var historicalEvents = JSON.parse(storedEvents);
+      renderTimelineEvents(historicalEvents);
     } else {
       // Initial events
         var historicalEvents = [
@@ -20,12 +20,12 @@ document.addEventListener("DOMContentLoaded", function () {
           { year: 1996, event: "Won Championship trophy" },
           { year: currentDate.getFullYear(), event: "Now" },
         ];
-        renderTimelineEvents();
+        renderTimelineEvents(historicalEvents);
     }
   } 
 
   // Function to put events on the timeline
-  function renderTimelineEvents() {
+  function renderTimelineEvents(historicalEvents) {
     nodesContainer.innerHTML = "";
     const minYear = historicalEvents[0].year;
     const maxYear = historicalEvents[historicalEvents.length - 1].year;
