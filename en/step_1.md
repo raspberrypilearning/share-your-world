@@ -18,11 +18,11 @@ You will:
 
 ### Try it
 
-Can you identify the ways CSS and Javascrpt have been used to make this website interactive? What HTML elements have been used to present the information?
+Can you identify the ways CSS and JavaScript have been used to make this website interactive? What HTML elements have been used to present the information?
 
 **Coding Journey**: [See inside](https://editor.raspberrypi.org/en/projects/share-your-world-coding){:target="_blank"}
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-coding" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-coding" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- /task ---
 
@@ -33,7 +33,7 @@ Can you identify the ways CSS and Javascrpt have been used to make this website 
 ### PROJECT BRIEF: Build an interactive website!
 <hr style="border-top: 2px solid black;">
 
-Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS and Javascript skills to welcome someone into a part of your world! Share your culture, interests, hobbies or expertise with the world. It is what the world wide web was designed for! 
+Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS and JavaScript skills to welcome someone into a part of your world! Share your culture, interests, hobbies or expertise with the world. It is what the world wide web was designed for! 
 
 Your website should:
 + Include more than one page and use a navigation bar
