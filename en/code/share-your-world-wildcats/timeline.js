@@ -6,26 +6,27 @@ document.addEventListener("DOMContentLoaded", function () {
   const addButton = document.getElementById("add-event-btn");
   const inputYear = document.getElementById("year-input");
   const inputEvent = document.getElementById("event-input");
+  var historicalEvents = [];
 
   function loadEventsFromLocalStorage() {
     const storedEvents = localStorage.getItem("historicalEvents");
     if (storedEvents) {
-      var historicalEvents = JSON.parse(storedEvents);
-      renderTimelineEvents(historicalEvents);
+      historicalEvents = JSON.parse(storedEvents);
+      renderTimelineEvents();
     } else {
       // Initial events
-        var historicalEvents = [
+        historicalEvents = [
           { year: 1977, event: "Wildcats formed" },
           { year: 1980, event: "Joined National League" },
           { year: 1996, event: "Won Championship trophy" },
           { year: currentDate.getFullYear(), event: "Now" },
         ];
-        renderTimelineEvents(historicalEvents);
+        renderTimelineEvents();
     }
   } 
 
   // Function to put events on the timeline
-  function renderTimelineEvents(historicalEvents) {
+  function renderTimelineEvents() {
     nodesContainer.innerHTML = "";
     const minYear = historicalEvents[0].year;
     const maxYear = historicalEvents[historicalEvents.length - 1].year;
@@ -38,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
       // Calculate the percentage width based on the time difference
       let percentageWidth = ((event.year - minYear) / totalYears) * 100;
       console.log(percentageWidth);
-      node.style.left = percentageWidth + "%"; 
+      node.style.left = percentageWidth + "%";
       node.innerHTML = `<span class="year">${event.year}</span><span class="event-description">${event.event}</span>`;
       nodesContainer.appendChild(node);
     });
