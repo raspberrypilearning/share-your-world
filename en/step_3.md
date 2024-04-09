@@ -6,7 +6,7 @@ Now it's time to build your interactive website and share your topic with the wo
 
 </div>
 <div>
-![alt=""](images/step-three.PNG){:width="300px"}
+![The 'Wildcats' website example](images/wildcats.png){:width="300px"}
 </div>
 </div>
 
