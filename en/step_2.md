@@ -5,7 +5,7 @@
 In this step you will plan your website, pick a topic and design the look of your what your webpage is about.
 </div>
 <div>
-![TO-DO add image of website design](images/step-two.jpg){:width="300px"}
+![A notebook showing wireframe sketches of webpages. A smartphone is next to it. Image credit: https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
 </div>
 </div>
 
