@@ -61,7 +61,7 @@ Open the [Share your world starter project](https://editor.raspberrypi.org/en/pr
 --- collapse ---
 
 ---
-title: New to the Raspberry Pi Editor?
+title: New to the Raspberry Pi Code Editor?
 ---
 
 Check out the [getting started guide](https://projects.raspberrypi.org/en/projects/getting-started-guide-editor-html){:target="_blank"}!
