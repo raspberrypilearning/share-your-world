@@ -56,7 +56,7 @@ What will the titles of your pages be?
 
 --- task ---
 
-Open the [Share your world starter project](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. The Raspberry Pi editor will open in a new tab.
+Open the [Share your world starter project](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. The Raspberry Pi Code Editor will open in a new tab.
 
 --- collapse ---
 
