@@ -13,14 +13,14 @@ In this step, you will plan your website, pick a topic, and design the look of y
 
 --- task ---
 
-Think about the purpose of your website: Which part of your world would you like to show off? 
+Think about the purpose of your website: which part of your world would you like to show off? 
 
 It could be:   
 + 🎊 Cultural – something from your culture: a festival, celebration, custom, or special location
 + 😁 Hobbies – a favourite hobby or passtime: books, TV, movies, obsession, or fandom
 + ⚽️ Sports – a sport you play or watch
 + 👗 Fashion – styles, brands, trends, decades, or designers
-+ 💻 Tech – technology: programming, computers, and the latest tech
++ 💻 Tech – programming, computers, or the latest technology
 + 📙 History – a piece or era of history: events, people, or places throughout time
 + 🔬 Science – an area of research: studies, discoveries, recent or historical
 
