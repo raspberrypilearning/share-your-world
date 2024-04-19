@@ -1,9 +1,9 @@
 ## Introduction
 
-In this project you will use the skills you have developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills and share a part of your world on the web.
+In this project, you will use the skills you developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills and share a part of your world on the web.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Love animals? Games? Books? <span style="color: #0faeb0">Build a website about it!</span> Turn your favorite things into a website. Share fun facts, create quizzes, or write reviews – show everyone why you love what you love!
+Love animals? Games? Books? <span style="color: #0faeb0">Build a website about it!</span> Turn your favorite things into a website. Share fun facts, create quizzes, or write reviews — show everyone why you love what you love!
 </p>
 
 You will:
@@ -30,7 +30,7 @@ Can you identify the ways CSS and JavaScript have been used to make this website
 title: Images in this project
 ---
 
-Images included in this project were created using generative AI. Model: Firefly Image 2
+Images included in this project were created using generative AI. Model: Firefly Image 2.
 
 --- /collapse ---
 
@@ -43,7 +43,7 @@ Images included in this project were created using generative AI. Model: Firefly
 ### PROJECT BRIEF: Build an interactive website!
 <hr style="border-top: 2px solid black;">
 
-Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS and JavaScript skills to welcome someone into a part of your world! Share your culture, interests, hobbies or expertise with the world. It is what the world wide web was designed for! 
+Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS, and JavaScript skills to welcome someone into a part of your world! Share your culture, interests, hobbies, or expertise with the world. It is what the world wide web was designed for! 
 
 Your website should:
 + Include more than one page and use a navigation bar
@@ -82,7 +82,7 @@ As you look at these webpages, consider what makes them useful and informative, 
 title: Images in this project
 ---
 
-Images included in this project were created using generative AI. Model: Firefly Image 2
+Images included in this project were created using generative AI. Model: Firefly Image 2.
 
 --- /collapse ---
 
