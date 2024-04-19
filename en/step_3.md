@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to build your interactive website and share your topic with the world!. 
+Now it's time to build your interactive website and share your topic with the world! 
 
 </div>
 <div>
@@ -40,7 +40,7 @@ Choose fonts to use on your webpage.
 
 --- task ---
 
-Open `index.html` and start to create your homepage
+Open `index.html` and start to create your homepage.
 
 [[[overall-page-structure]]]
 
@@ -160,7 +160,7 @@ Create the content of your website and add CSS styling to make it look awesome!
 
 --- task ---
 
-**Click Run** make sure you are happy with your content, there is a **Debugging** section further down to help you fix any problems.
+**Click Run** to make sure you are happy with your content. There is a **Debugging** section further down to help you fix any problems.
 
 --- /task ---
 
@@ -168,7 +168,7 @@ Create the content of your website and add CSS styling to make it look awesome!
 
 --- task ---
 
-Create a new `scripts.js` file and add it to your web pages.
+Create a new `scripts.js` file and add it to your webpages.
 
 [[[linking-js-html]]]
 
@@ -220,7 +220,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[intersection-observer-thresholds]]]
 
-**Tip:** if you only want your observers for a single page, make a seperate `.js` file and link it **only** on the page where it is needed. 
+**Tip:** If you only want your observers for a single page, make a seperate `.js` file and link it **only** on the page where it is needed. 
 
 [[[linking-js-html]]]
 
@@ -230,7 +230,7 @@ Add code to your new file to add interactivity to your website!
 
 --- task ---
 
-**Click Run** - and test your project.
+**Click Run** and test your project.
 
 Debug your website and make sure everything works as you intended it to.
 
@@ -254,7 +254,7 @@ We love hearing about your bugs and how you fixed them. Use the **Send feedback*
 
 --- task ---
 
-Check that your website is accessible with colours, alt-text and looks great on all sizes of screen.
+Check that your website is accessible with contrasting colours, alt-text, and that it looks great on all sizes of screen.
 
 [[[contrast-checker]]]
 
