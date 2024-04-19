@@ -2,7 +2,7 @@
 
 You have reached the end of the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path!
 
-Now you can create awesome interactive websites that use modern design to excite and engage users! Try using HTML, CSS and JavaScript to create more websites.
+Now, you can create awesome interactive websites that use modern design to excite and engage users! Try using HTML, CSS, and JavaScript to create more websites.
 
 You could enter one of your Design or Invent projects into Coolest Projects, or make a completely new webpage.
 
