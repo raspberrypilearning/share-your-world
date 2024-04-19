@@ -1,9 +1,9 @@
 ## Introduction
 
-In this project, you will use the skills you developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills and share a part of your world on the web.
+In this project, you will use the skills you developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills so that you can share a part of your world with others.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Love animals? Games? Books? <span style="color: #0faeb0">Build a website about it!</span> Turn your favorite things into a website. Share fun facts, create quizzes, or write reviews — show everyone why you love what you love!
+Love animals? Games? Books? <span style="color: #0faeb0">Build a website about it!</span> Turn your favourite things into a website. Share fun facts, create quizzes, or write reviews — show everyone why you love what you love!
 </p>
 
 You will:
