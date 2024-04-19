@@ -1,6 +1,6 @@
 ## Upgrade your project
 
-If you have time you can upgrade your project. You might already have ideas to add, or you might want to go back to the first step and look at other projects again for more inspiration.
+If you have time, you can upgrade your project. You might already have ideas to add, or you might want to go back to the first step and look at other projects again for more inspiration.
 
 --- task ---
 
@@ -13,7 +13,7 @@ Add new pages to expand the journey for the user.
 **Add more content**
 + New sections with different layouts
 + More content for people to read and discover
-+ Add to existing content to dive a little deeper.
++ Add to existing content to dive a little deeper
 
 **Improve the visual design**
 + Use interaction styling to change elements when a user interacts with them
