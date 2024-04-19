@@ -2,23 +2,23 @@
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
 
-Does your website have:
+Does your website:
 
 --- task ---
 
-Multiple webpages, with different content and a navigation bar to help a user move between them?
+Have multiple webpages, with different content and a navigation bar to help a user move between them?
 
 --- /task ---
 
 --- task ---
 
-A colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
+Use a colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
 
 --- /task ---
 
 --- task ---
 
-Multiple types of layout, and at least one grid to organise your content?
+Have multiple types of layout, and at least one grid to organise your content?
 
 --- /task ---
 
@@ -30,7 +30,7 @@ Use JavaScript and the DOM to update HTML page elements?
 
 --- task ---
 
-Accessibility through a good colour contrast and easily readable font sizes?
+Provide accessibility through a good colour contrast and easily readable font sizes?
 
 --- /task ---
 
@@ -74,7 +74,7 @@ How did you choose the topic for your website?
 
 --- task ---
 
-Which HTML, CSS or JavaScript technique do you like best?
+Which HTML, CSS, or JavaScript technique do you like best?
 
 --- /task ---
 
