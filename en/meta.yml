@@ -2,7 +2,7 @@ title: Share your world
 hero_image: images/banner.png
 description: Build an interactive website to share a part of your world
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-3-25"
 steps:
