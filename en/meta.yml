@@ -9,10 +9,13 @@ steps:
   - title: Introduction
   - title: Your topic
   - title: Build and test
-    completion: engaged
+    completion: 
+    - engaged
   - title: Share
-    completion: internal
+    completion: 
+    - internal
   - title: Reflection
-    completion: external
+    completion: 
+    - external
   - title: Upgrade your project
   - title: What next?
