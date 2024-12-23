@@ -7,22 +7,22 @@ copyedit: false
 last_tested: "2024-3-25"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Your topic
+    title: Jouw onderwerp
   - 
-    title: Build and test
+    title: Bouw en test
     completion:
       - engaged
   - 
-    title: Share
+    title: Deel
     completion:
       - internal
   - 
-    title: Reflection
+    title: Reflectie
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
