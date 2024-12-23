@@ -1,7 +1,7 @@
 /* Import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
-/* Set up colour palette and fonts using variables */
+/* Configurer la palette de couleurs et les polices en utilisant les variables */
 :root {
   
   --body-background-colour: #EEF0F2;
