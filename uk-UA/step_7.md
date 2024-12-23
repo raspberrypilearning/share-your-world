@@ -1,4 +1,4 @@
-## What next?
+## Що далі?
 
 You have reached the end of the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path!
 
