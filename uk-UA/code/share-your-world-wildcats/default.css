@@ -1,4 +1,4 @@
-/* Set up colour palette and fonts using variables */
+/* Налаштуй палітру кольорів і шрифти за допомогою змінних */
 :root {
   --body-background-colour: #000000;
   --body-text-colour: #FFFFFF;
