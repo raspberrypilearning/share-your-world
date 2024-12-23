@@ -1,4 +1,4 @@
-## Build and test
+## Bouw en test
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -12,7 +12,7 @@ Now it's time to build your interactive website and share your topic with the wo
 
 **Tip:** Plan your project so you can create the whole website in the time you have available and then upgrade the project if you have time left.
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+\*\*Tip: \*\* Vergeet niet om je project elke keer te testen wanneer je iets toevoegt. Het is veel gemakkelijker om bugs te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
 ### Create your palette
 
@@ -24,11 +24,11 @@ Open `default.css` and set up your colours and fonts for the project.
 
 [[[add-colour-variables]]]
 
-Use your colour palettes to set text and background colours.
+Gebruik je kleurenpaletten om tekst- en achtergrondkleuren in te stellen.
 
 [[[web-primary-secondary]]]
 
-Choose fonts to use on your webpage.
+Kies lettertypen om te gebruiken op je webpagina.
 
 [[[google-fonts]]]
 
@@ -244,9 +244,9 @@ Debug your website and make sure everything works as you intended it to.
 
 [[[web-debug-link]]]
 
-You might find a bug not listed here. Can you figure out how to fix the bug?
+Je kunt een fout vinden die hier niet wordt vermeld. Kun je erachter komen hoe je het kunt oplossen?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de **Stuur feedback** knop onderaan deze pagina als je een andere bug in jouw project hebt gevonden.
 
 \--- /task ---
 
