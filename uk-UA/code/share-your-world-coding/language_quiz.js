@@ -50,7 +50,7 @@ const languageText = document.querySelector('#languagetext');
 const project1 = document.querySelector('#project1');
 const project2 = document.querySelector('#project2');
 function scratch() {
-  languageHeading.innerText = 'Scratch';
+  languageHeading.innerText = 'Скретч';
   languageText.innerText =
     'Scratch is a block based coding environment \n \
     It is perfect for beginners but also those who want to get more confident with coding. \n \
@@ -68,7 +68,7 @@ function python() {
   project2.innerText = 'projects.raspberrypi.org/en/projects/colourful-creations';
 }
 function unity() {
-  languageHeading.innerText = 'C#';
+  languageHeading.innerText = 'В#';
   languageText.innerText =
     'C# is a more advanced text based programming language. \n \
     There are loads of awesome things you can do with it. Like creating games with the Unity engine! \n \
