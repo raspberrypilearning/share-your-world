@@ -1,9 +1,9 @@
-## Share
+## Deel
 
-Now is the time to share your webpage so that it can receive visitors.
+Het is nu tijd om jouw webpagina te delen, zodat deze bezoekers kan ontvangen.
 
-**Note:** Remember to check that you haven't included any personal information in your webpage.
+**Opmerking:** Vergeet niet om te controleren of je geen persoonlijke informatie op jouw webpagina hebt vermeld.
 
-Why not show your project to one of your friends?
+Waarom laat je je project niet zien aan een van je vrienden?
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
