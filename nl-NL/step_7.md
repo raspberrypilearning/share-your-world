@@ -1,11 +1,11 @@
-## What next?
+## Wat kun je verder nog doen?
 
 You have reached the end of the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path!
 
 Now, you can create awesome interactive websites that use modern design to excite and engage users! Try using HTML, CSS, and JavaScript to create more websites.
 
-You could enter one of your Design or Invent projects into Coolest Projects, or make a completely new webpage.
+Je kunt een van jouw Ontwerp- of Bedenk-projecten toevoegen aan Coolest Projects, of een compleet nieuwe webpagina maken.
 
 [[[web-coolest-projects]]]
 
-You can also explore our [other web projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) and try them out.
+Je kunt ook onze [andere webprojecten](https://projects.raspberrypi.org/nl/projects?software%5B%5D=html-css-javascript) verkennen en ze uitproberen.
