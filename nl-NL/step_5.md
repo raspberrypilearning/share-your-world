@@ -1,6 +1,6 @@
-## Reflection
+## Reflectie
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
+Voldoet je project aan de projectsamenvatting\*\*? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
 Does your website:
 
@@ -12,7 +12,7 @@ Have multiple webpages, with different content and a navigation bar to help a us
 
 \--- task ---
 
-Use a colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
+Een kleurenpalet, lettertypen en CSS-stijlen moeten gebruiken die goed samengaan? Je kunt andere mensen om hun mening vragen, maar je hoeft niets te veranderen als je het niet met hen eens bent.
 
 \--- /task ---
 
@@ -34,7 +34,7 @@ Provide accessibility through a good colour contrast and easily readable font si
 
 \--- /task ---
 
-Your webpage could:
+Je webpagina zou:
 
 \--- task ---
 
@@ -56,13 +56,13 @@ Use multiple JavaScript events to update HTML page elements to change the text o
 
 \--- task ---
 
-Be shared to the Raspberry Pi Foundation community gallery to inspire others.
+Kunnen worden gedeeld met de Raspberry Pi Foundation galerij om anderen te inspireren.
 
 \--- /task ---
 
 When you reflect on how you made your website, it will help you in your future projects.
 
-Answer the questions below. You can draw, write, type in a document, talk to someone, or answer the questions in your own creative way that works best for you.
+Beantwoord de onderstaande vragen. Je kunt tekenen, schrijven, typen in een document, met iemand praten, of de vragen beantwoorden op je eigen creatieve manier die het beste voor je werkt.
 
 \--- task ---
 
@@ -90,10 +90,10 @@ Which of these new skills was your favourite to use?
 
 ### Now you are a skilled web developer & designer!
 
-Take a moment to celebrate what you have made.
+Neem even de tijd om dit te vieren.
 
 \--- task ---
 
-Where will you take your new powers? Who will you show your website to? What will you make next?
+Waar ga je met je nieuwe kennis doen? Who will you show your website to? Wat ga je hierna maken?
 
 \--- /task ---
