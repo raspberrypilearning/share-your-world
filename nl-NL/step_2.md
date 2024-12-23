@@ -1,4 +1,4 @@
-## Your idea
+## Jouw idee
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -15,7 +15,7 @@ In this step, you will plan your website, pick a topic, and design the look of y
 
 Think about the purpose of your website: which part of your world would you like to show off?
 
-It could be:
+Dat kan zijn:
 
 - 🎊 Cultural – something from your culture: a festival, celebration, custom, or special location
 - 😁 Hobbies – a favourite hobby or passtime: books, TV, movies, obsession, or fandom
@@ -31,7 +31,7 @@ You might want to build on the pages you made in [Pick your favourite](https://p
 
 \--- /task ---
 
-### Who is it for?
+### Voor wie is het?
 
 \--- task ---
 
@@ -63,7 +63,7 @@ Open the [Share your world starter project](https://editor.raspberrypi.org/en/pr
 
 \--- task ---
 
-Change the `<title>` element text to the title of your page.
+Wijzig de `<title>` elementtekst in de titel van jouw pagina.
 
 [[[web-add-title-head]]]
 
