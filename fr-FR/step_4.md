@@ -1,9 +1,9 @@
-## Share
+## Partager
 
-Now is the time to share your webpage so that it can receive visitors.
+C'est maintenant le moment de partager ta page web afin qu'elle puisse recevoir des visiteurs.
 
-**Note:** Remember to check that you haven't included any personal information in your webpage.
+**Remarque :** n'oublie pas de vérifier que tu n'as inclus aucune information personnelle sur ta page web.
 
-Why not show your project to one of your friends?
+Pourquoi ne pas montrer ton projet à l'un de tes amis ?
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Pourquoi ne pas inviter tes amis à créer un projet ? Fais-leur savoir comment tu t'es amusé(e).
