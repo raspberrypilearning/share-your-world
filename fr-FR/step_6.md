@@ -1,6 +1,6 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you can upgrade your project. You might already have ideas to add, or you might want to go back to the first step and look at other projects again for more inspiration.
+Si tu as le temps, tu peux améliorer ton projet. You might already have ideas to add, or you might want to go back to the first step and look at other projects again for more inspiration.
 
 \--- task ---
 
