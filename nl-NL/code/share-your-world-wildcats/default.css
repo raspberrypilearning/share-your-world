@@ -1,4 +1,4 @@
-/* Set up colour palette and fonts using variables */
+/* Kleurenpalet en lettertypen instellen met variabelen */
 :root {
   --body-background-colour: #000000;
   --body-text-colour: #FFFFFF;
