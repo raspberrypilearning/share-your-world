@@ -7,22 +7,22 @@ copyedit: false
 last_tested: "2024-3-25"
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
     title: Your topic
   - 
-    title: Build and test
+    title: Створи і протестуй
     completion:
       - engaged
   - 
-    title: Share
+    title: Пошир свій проєкт
     completion:
       - internal
   - 
-    title: Reflection
+    title: Рефлексія
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Вдосконалення твого проєкту
   - 
-    title: What next?
+    title: Що далі?
