@@ -1,4 +1,4 @@
-## Build and test
+## Створи і протестуй
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -12,7 +12,7 @@ Now it's time to build your interactive website and share your topic with the wo
 
 **Tip:** Plan your project so you can create the whole website in the time you have available and then upgrade the project if you have time left.
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** Remember to test your project each time you add something. Набагато простіше знайти та виправити помилки до того, як ти внесеш нові зміни.
 
 ### Create your palette
 
@@ -244,9 +244,9 @@ Debug your website and make sure everything works as you intended it to.
 
 [[[web-debug-link]]]
 
-You might find a bug not listed here. Can you figure out how to fix the bug?
+Ти можеш виявити помилку, яка не вказана тут. Can you figure out how to fix the bug?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
+Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
 
 \--- /task ---
 
