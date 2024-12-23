@@ -1,6 +1,6 @@
-## Reflection
+## Réflexion
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
+As-tu respecté le **descriptif du projet** ? Réfléchis à ton projet et parcours la checklist ci-dessous et coche les points qui s’appliquent à ton projet.
 
 Does your website:
 
@@ -12,7 +12,7 @@ Have multiple webpages, with different content and a navigation bar to help a us
 
 \--- task ---
 
-Use a colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
+Utiliser une palette de couleurs, des polices et des styles CSS qui fonctionnent bien ensemble? Tu peux demander l’avis d’autres personnes, mais tu n’es pas obligé d’apporter des modifications si tu n’es pas d’accord avec elles.
 
 \--- /task ---
 
@@ -34,7 +34,7 @@ Provide accessibility through a good colour contrast and easily readable font si
 
 \--- /task ---
 
-Your webpage could:
+Ta page web pourrait :
 
 \--- task ---
 
@@ -56,13 +56,13 @@ Use multiple JavaScript events to update HTML page elements to change the text o
 
 \--- task ---
 
-Be shared to the Raspberry Pi Foundation community gallery to inspire others.
+Être partagé à la galerie communautaire de la Raspberry Pi Foundation pour inspirer les autres.
 
 \--- /task ---
 
 When you reflect on how you made your website, it will help you in your future projects.
 
-Answer the questions below. You can draw, write, type in a document, talk to someone, or answer the questions in your own creative way that works best for you.
+Réponds aux questions ci-dessous. Tu peux dessiner, écrire, taper un document, parler à quelqu'un ou répondre aux questions de ta propre façon créative qui te convient le mieux.
 
 \--- task ---
 
@@ -90,10 +90,10 @@ Which of these new skills was your favourite to use?
 
 ### Now you are a skilled web developer & designer!
 
-Take a moment to celebrate what you have made.
+Prends un moment pour célébrer ce que tu as fait.
 
 \--- task ---
 
-Where will you take your new powers? Who will you show your website to? What will you make next?
+Comment vas-tu utiliser tes nouveaux pouvoirs ? Who will you show your website to? Que feras-tu ensuite ?
 
 \--- /task ---
