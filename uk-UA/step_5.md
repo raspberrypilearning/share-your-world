@@ -1,4 +1,4 @@
-## Reflection
+## Рефлексія
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
 
@@ -90,10 +90,10 @@ Which of these new skills was your favourite to use?
 
 ### Now you are a skilled web developer & designer!
 
-Take a moment to celebrate what you have made.
+Знайди хвилинку, щоб насолодитися своїм досягненням.
 
 \--- task ---
 
-Where will you take your new powers? Who will you show your website to? What will you make next?
+Куди ти спрямуєш свої нові вміння? Who will you show your website to? Що будеш робити далі?
 
 \--- /task ---
