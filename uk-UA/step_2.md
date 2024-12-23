@@ -1,4 +1,4 @@
-## Your idea
+## Твоя власна ідея
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -15,7 +15,7 @@ In this step, you will plan your website, pick a topic, and design the look of y
 
 Think about the purpose of your website: which part of your world would you like to show off?
 
-It could be:
+Це може бути:
 
 - 🎊 Cultural – something from your culture: a festival, celebration, custom, or special location
 - 😁 Hobbies – a favourite hobby or passtime: books, TV, movies, obsession, or fandom
@@ -31,7 +31,7 @@ You might want to build on the pages you made in [Pick your favourite](https://p
 
 \--- /task ---
 
-### Who is it for?
+### Для кого твій проєкт?
 
 \--- task ---
 
