@@ -9,20 +9,20 @@ steps:
   - 
     title: Introduction
   - 
-    title: Your topic
+    title: Ton sujet
   - 
-    title: Build and test
+    title: Créer et tester
     completion:
       - engaged
   - 
-    title: Share
+    title: Partager
     completion:
       - internal
   - 
-    title: Reflection
+    title: Réflexion
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: What next?
+    title: Et ensuite ?
