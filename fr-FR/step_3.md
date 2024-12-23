@@ -1,4 +1,4 @@
-## Build and test
+## Créer et tester
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -12,7 +12,7 @@ Now it's time to build your interactive website and share your topic with the wo
 
 **Tip:** Plan your project so you can create the whole website in the time you have available and then upgrade the project if you have time left.
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Astuce :** n'oublie pas de tester ton projet chaque fois que tu ajoutes quelque chose. Il est beaucoup plus facile de trouver et de corriger les bogues avant d'apporter d'autres modifications.
 
 ### Create your palette
 
@@ -24,11 +24,11 @@ Open `default.css` and set up your colours and fonts for the project.
 
 [[[add-colour-variables]]]
 
-Use your colour palettes to set text and background colours.
+Utilise tes palettes de couleurs pour définir des couleurs de texte et d'arrière-plan.
 
 [[[web-primary-secondary]]]
 
-Choose fonts to use on your webpage.
+Choisis les polices à utiliser sur ta page web.
 
 [[[google-fonts]]]
 
@@ -244,9 +244,9 @@ Debug your website and make sure everything works as you intended it to.
 
 [[[web-debug-link]]]
 
-You might find a bug not listed here. Can you figure out how to fix the bug?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver un moyen de le corriger ?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
+Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Utilise le bouton **Envoie un commentaire** au bas de cette page si tu as trouvé un autre bogue dans ton projet.
 
 \--- /task ---
 
