@@ -19,9 +19,9 @@ body {
 main {
   height: 100%;
   justify-content: center;
-  margin: 0 auto; /* Center if the browser is really wide */
-  min-width: 25rem; /* Don't let the content get too narrow */
-  max-width: 70rem; /*  Don't let the content get too wide */
+  margin: 0 auto; /* Розміщувати по центру, якщо браузер заширокий */
+  min-width: 25rem; /* Щоб вміст не стискався по горизонталі */
+  max-width: 70rem; /*  Щоб вміст не розтягувався по горизонталі */
   padding: 0;
 }
 
