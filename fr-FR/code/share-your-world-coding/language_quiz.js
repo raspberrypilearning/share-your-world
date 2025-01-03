@@ -52,27 +52,21 @@ const project2 = document.querySelector('#project2');
 function scratch() {
   languageHeading.innerText = 'Scratch';
   languageText.innerText =
-    'Scratch is a block based coding environment \n \
-    It is perfect for beginners but also those who want to get more confident with coding. \n \
-    Here are some projects you might like!';
+    'Scratch est un environnement de codage basé sur des blocs \n     Il est parfait pour les débutants, mais aussi pour ceux qui souhaitent acquérir plus de confiance en eux avec le codage. \n     Voici quelques projets qui pourraient te plaire !';
   project1.innerText = 'projects.raspberrypi.org/en/projects/alien-language';
   project2.innerText = 'projects.raspberrypi.org/en/projects/beat-the-goalie';
 }
 function python() {
   languageHeading.innerText = 'Python';
   languageText.innerText =
-    'Python is a text-based programming language. \n \
-    It uses commands in plain English, which makes it simpler to understand. \n \
-    Here are some projects you might like!';
+    'Python est un langage de programmation textuel. \n     Il utilise des commandes en anglais simple, ce qui le rend plus simple à comprendre. \n     Voici quelques projets qui pourraient te plaire !';
   project1.innerText = 'projects.raspberrypi.org/en/projects/hello-world';
   project2.innerText = 'projects.raspberrypi.org/en/projects/colourful-creations';
 }
 function unity() {
   languageHeading.innerText = 'C#';
   languageText.innerText =
-    'C# is a more advanced text based programming language. \n \
-    There are loads of awesome things you can do with it. Like creating games with the Unity engine! \n \
-    Here are some projects you might like!';
+    'C# est un langage de programmation textuel plus avancé. \n     Il offre de nombreuses possibilités. Comme créer des jeux avec le moteur Unity ! \n     Voici quelques projets qui pourraient te plaire !';
   project1.innerText = 'projects.raspberrypi.org/en/projects/explore-a-3d-world';
   project2.innerText = 'projects.raspberrypi.org/en/projects/star-collector';
 }
