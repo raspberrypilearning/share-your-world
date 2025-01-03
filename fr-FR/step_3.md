@@ -2,23 +2,23 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to build your interactive website and share your topic with the world! 
+Il est maintenant temps de créer ton site web interactif et de partager ton sujet avec le monde ! 
 
 </div>
 <div>
-![The 'Wildcats' website example](images/wildcats.png){:width="300px"}
+![Exemple du site web "'Wildcats"](images/wildcats.png){:width="300px"}
 </div>
 </div>
 
-**Tip:** Plan your project so you can create the whole website in the time you have available and then upgrade the project if you have time left.
+**Conseil :** planifie ton projet de manière à pouvoir créer l'intégralité du site web dans le temps dont tu disposes, puis améliore-le s'il te reste du temps.
 
 **Astuce :** n'oublie pas de tester ton projet chaque fois que tu ajoutes quelque chose. Il est beaucoup plus facile de trouver et de corriger les bogues avant d'apporter d'autres modifications.
 
-### Create your palette
+### Créer ta palette
 
 \--- task ---
 
-Open `default.css` and set up your colours and fonts for the project.
+Ouvre `default.css` et configure tes couleurs et tes polices pour le projet.
 
 [[[contrast-checker]]]
 
@@ -36,11 +36,11 @@ Choisis les polices à utiliser sur ta page web.
 
 \--- /task ---
 
-### Create your homepage
+### Créer ta page d'accueil
 
 \--- task ---
 
-Open `index.html` and start to create your homepage.
+Ouvre `index.html` et commence à créer ta page d'accueil.
 
 [[[overall-page-structure]]]
 
@@ -52,11 +52,11 @@ Open `index.html` and start to create your homepage.
 
 \--- /task ---
 
-### Create your other pages
+### Créer tes autres pages
 
 \--- task ---
 
-Create new files for your other pages, add them to your navigation bar.
+Crée de nouveaux fichiers pour tes autres pages, ajoute-les à ta barre de navigation.
 
 [[[editor-add-file]]]
 
@@ -68,11 +68,11 @@ Create new files for your other pages, add them to your navigation bar.
 
 \--- /task ---
 
-### Create and style your content
+### Créer et styliser ton contenu
 
 \--- task ---
 
-Create the content of your website and add CSS styling to make it look awesome!
+Crée le contenu de ton site web et ajoute un style CSS pour le rendre génial !
 
 #### HTML
 
@@ -160,15 +160,15 @@ Create the content of your website and add CSS styling to make it look awesome!
 
 \--- task ---
 
-**Click Run** to make sure you are happy with your content. There is a **Debugging** section further down to help you fix any problems.
+**Clique sur Run** pour t'assurer que tu es satisfait(e) de ton contenu. Il y a une section **Débogage** plus bas pour t'aider à résoudre tous les problèmes.
 
 \--- /task ---
 
-### Add JavaScript to your website
+### Ajouter JavaScript à ton site web
 
 \--- task ---
 
-Create a new `scripts.js` file and add it to your webpages.
+Crée un nouveau fichier `scripts.js` et ajoute-le à tes pages web.
 
 [[[linking-js-html]]]
 
@@ -176,15 +176,15 @@ Create a new `scripts.js` file and add it to your webpages.
 
 \--- task ---
 
-Add code to your new file to add interactivity to your website!
+Ajoute du code à ton nouveau fichier pour ajouter de l'interactivité à ton site web !
 
-#### Trigger your JavaScript with events and functions
+#### Déclenche ton JavaScript avec des événements et des fonctions
 
 [[[events-javascript]]]
 
 [[[writing-js-functions]]]
 
-#### Tips for writing JavaScript
+#### Astuces pour écrire en JavaScript
 
 [[[conditional-statements-js]]]
 
@@ -196,7 +196,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[date-time-javascript]]]
 
-#### Manipulate HTML elements
+#### Manipuler les éléments HTML
 
 [[[dom-manipulation]]]
 
@@ -208,7 +208,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[classlist-property]]]
 
-#### Use intersection observers
+#### Utiliser les observateurs d'intersection
 
 [[[intersection-observer]]]
 
@@ -220,19 +220,19 @@ Add code to your new file to add interactivity to your website!
 
 [[[intersection-observer-thresholds]]]
 
-**Tip:** If you only want your observers for a single page, make a seperate `.js` file and link it **only** on the page where it is needed.
+**Astuce :** si tu ne veux que tes observateurs pour une seule page, fais un fichier `.js` séparé et le lie **seulement** sur la page où il est nécessaire.
 
 [[[linking-js-html]]]
 
 \--- /task ---
 
-### Debugging
+### Débogage
 
 \--- task ---
 
-**Click Run** and test your project.
+**Clique sur Run** et teste ton projet.
 
-Debug your website and make sure everything works as you intended it to.
+Débogue ton site web et assure-toi que tout fonctionne comme prévu.
 
 [[[incorrect-tags]]]
 
@@ -246,15 +246,15 @@ Debug your website and make sure everything works as you intended it to.
 
 Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver un moyen de le corriger ?
 
-Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Utilise le bouton **Envoie un commentaire** au bas de cette page si tu as trouvé un autre bogue dans ton projet.
+Nous aimerions connaître tes bogues et la façon dont tu les as résolus. Utilise le bouton **Envoyer un commentaire** au bas de cette page si tu as trouvé un autre bogue dans ton projet.
 
 \--- /task ---
 
-### Accessibility check
+### Vérification de l'accessibilité
 
 \--- task ---
 
-Check that your website is accessible with contrasting colours, alt-text, and that it looks great on all sizes of screen.
+Vérifie que ton site web est accessible avec des couleurs contrastées, du texte alt, et qu'il est parfait pour toutes les tailles d'écran.
 
 [[[contrast-checker]]]
 
