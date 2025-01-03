@@ -44,7 +44,7 @@
   margin-bottom: 10px;
 }
 
-/*Time line styling */
+/*Style de la chronologie */
 #timeline {
   position: relative;
   margin: 0px;
@@ -113,7 +113,7 @@
   white-space: nowrap;
 }
 
-/* General Styling */
+/* Style général */
 .content {
   padding: 20px;
   font: 1.2rem "Anton", sans-serif;
@@ -173,7 +173,7 @@ input:checked + .slider:before {
   color: white;
 }
 
-/* Dark Mode Styles */
+/* Styles du mode sombre */
 body.dark-mode {
   background-color: var(--nav-background-colour);
   color: white;
@@ -223,12 +223,12 @@ body {
 }
 
 .scrolling-section {
-  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-y: auto; /* Activer le défilement vertical */
   position: relative;
   transition: background 0.3s, color 0.3s;
 }
 
-/* Parallax section styling */
+/* Style de section parallax */
 .bball {
   position: relative;
   background-position: center;
