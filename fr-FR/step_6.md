@@ -1,35 +1,35 @@
 ## Améliorer ton projet
 
-Si tu as le temps, tu peux améliorer ton projet. You might already have ideas to add, or you might want to go back to the first step and look at other projects again for more inspiration.
+Si tu as le temps, tu peux améliorer ton projet. Tu as peut-être déjà des idées à ajouter, ou tu veux peut-être revenir à la première étape et examiner d'autres projets pour t'inspirer encore plus.
 
 \--- task ---
 
-On your website you could:
+Sur ton site web, tu peux :
 
-**Add to the website**
+**Ajouter au site web**
 
-Add new pages to expand the journey for the user.
+Ajouter de nouvelles pages pour élargir le parcours de l’utilisateur.
 
-**Add more content**
+**Ajouter plus de contenu**
 
-- New sections with different layouts
-- More content for people to read and discover
-- Add to existing content to dive a little deeper
+- Nouvelles sections avec des mises en page différentes
+- Plus de contenu à lire et à découvrir
+- Ajouter au contenu existant pour approfondir
 
-**Improve the visual design**
+**Améliorer la conception visuelle**
 
-- Use interaction styling to change elements when a user interacts with them
-- Add more colours
-- Add more fonts
-- Change the grid layouts
-- Make the design responsive
+- Utiliser le style d'interaction pour changer les éléments lorsqu'un utilisateur interagit avec eux
+- Ajouter plus de couleurs
+- Ajouter plus de polices
+- Modifier la disposition de la grille
+- Rendre la conception réactive
 
-**Add more interaction with JavaScript**
+**Ajouter plus d'interaction avec JavaScript**
 
-- Create new observers to add animations
-- Use events to update more of the content
-- Add choices so the user can make the website their own
-- Use localStorage to save changes made by the user
+- Créer de nouveaux observateurs pour ajouter des animations
+- Utiliser des événements pour mettre à jour plus de contenu
+- Ajouter des choix pour que l'utilisateur puisse faire son propre site web
+- Utiliser localStorage pour enregistrer les modifications apportées par l'utilisateur
 
 [[[local-storage-javascript]]]
 
