@@ -1,17 +1,17 @@
 ## Introduction
 
-In this project, you will use the skills you developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills so that you can share a part of your world with others.
+Dans ce projet, tu utiliseras les compétences que vtu as développées dans le parcours [Plus de web](https://projects.raspberrypi.org/fr-FR/pathways/more-web) pour créer un site web interactif en utilisant des compétences de conception modernes afin que tu puisses partager une partie de ton monde avec d'autres personnes.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Love animals? Jeux? Books? <span style="color: #0faeb0">Build a website about it!</span> Turn your favourite things into a website. Share fun facts, create quizzes, or write reviews — show everyone why you love what you love!
+Tu aimes les animaux ? Les jeux ? Les livres ? <span style="color: #0faeb0">Crée un site web sur ce sujet !</span> Transforme tes choses préférées en site web. Partage des faits amusants, crée des quiz ou écris des commentaires. Montre à tout le monde ce que tu aimes et pourquoi !
 </p>
 
 Tu vas :
 
-- Build an interactive website to share a part of your world
-- Create multiple pages and link them together
-- Use CSS to style your website
-- Use JavaScript to add interactivity to your site
+- Créer un site web interactif pour partager une partie de ton monde
+- Créer plusieurs pages et les lier ensemble
+- Utiliser CSS pour styliser ton site web
+- Utiliser JavaScript pour ajouter de l'interactivité à ton site web
 
 \--- no-print ---
 
@@ -19,9 +19,9 @@ Tu vas :
 
 ### Essaie-le
 
-Can you identify the ways CSS and JavaScript have been used to make this website interactive? What HTML elements have been used to present the information?
+Peux-tu identifier les façons dont CSS et JavaScript ont été utilisés pour rendre ce site interactif ? Quels éléments HTML ont été utilisés pour présenter les informations ?
 
-**Coding Journey**: [See inside](https://editor.raspberrypi.org/en/projects/share-your-world-coding){:target="_blank"}
+**Parcours de codage** : [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/share-your-world-coding){:target="_blank"}
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-coding" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
@@ -41,25 +41,25 @@ Les images incluses dans ce projet ont été créées à l'aide d'une IA génér
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Build an interactive website!
+### DESCRIPTION DU PROJET : Crée un site web interactif !
 
 <hr style="border-top: 2px solid black;">
 
-Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS, and JavaScript skills to welcome someone into a part of your world! Share your culture, interests, hobbies, or expertise with the world. It is what the world wide web was designed for!
+Crée un site web interactif qui invite un utilisateur à expérimenter quelque chose qu'il ne peut pas faire autrement. Utilise tes compétences en HTML, CSS et JavaScript pour accueillir quelqu'un dans une partie de ton monde ! Partage ta culture, tes intérêts, tes loisirs ou ton expertise avec le monde. C'est pour cela que le world wide web a été conçu !
 
-Your website should:
+Ton site web devrait :
 
-- Include more than one page and use a navigation bar
-- Use a grid or flex layout
-- Use JavaScript to update a page element
-- Include alt-text for images
+- Inclure plus d'une page et utiliser une barre de navigation
+- Utiliser une mise en page grille ou flex
+- Utiliser JavaScript pour mettre à jour un élément de page
+- Inclure le texte alt pour les images
 
-Your website could:
+Ton site web pourrait :
 
-- Have different (adaptive) layouts
-- Use the JavaScript observer to animate page elements
-- Use multiple JavaScript events to update a page element
-- Make use of localStorage to keep changes
+- Avoir des mises en page différentes (adaptatives)
+- Utiliser l'observateur JavaScript pour animer les éléments de la page
+- Utiliser plusieurs événements JavaScript pour mettre à jour un élément de page
+- Utiliser localStorage pour conserver les modifications
 
 </div>
 
@@ -75,7 +75,7 @@ En consultant ces pages web, réfléchis à ce qui les rend utiles et informativ
 
 <div>
 
-**Wildcats** [See inside](https://editor.raspberrypi.org/en/projects/share-your-world-wildcats){:target="_blank"}
+**Wildcats** [voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/share-your-world-wildcats){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-wildcats" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
