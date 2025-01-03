@@ -2,11 +2,11 @@
 
 As-tu respecté le **descriptif du projet** ? Réfléchis à ton projet et parcours la checklist ci-dessous et coche les points qui s’appliquent à ton projet.
 
-Does your website:
+Est-ce que ton site web :
 
 \--- task ---
 
-Have multiple webpages, with different content and a navigation bar to help a user move between them?
+Dispose de plusieurs pages web, avec un contenu différent et une barre de navigation pour aider l'utilisateur à se déplacer entre elles ?
 
 \--- /task ---
 
@@ -18,19 +18,19 @@ Utiliser une palette de couleurs, des polices et des styles CSS qui fonctionnent
 
 \--- task ---
 
-Have multiple types of layout, and at least one grid to organise your content?
+Dispose de plusieurs types de mise en page et d'au moins une grille pour organiser ton contenu ?
 
 \--- /task ---
 
 \--- task ---
 
-Use JavaScript and the DOM to update HTML page elements?
+Utilise JavaScript et le DOM pour mettre à jour les éléments de page HTML ?
 
 \--- /task ---
 
 \--- task ---
 
-Provide accessibility through a good colour contrast and easily readable font sizes?
+Fourni une accessibilité grâce à un bon contraste de couleurs et des tailles de police facilement lisibles ?
 
 \--- /task ---
 
@@ -38,62 +38,62 @@ Ta page web pourrait :
 
 \--- task ---
 
-Have different adaptive layouts that respond to the size of the web browser.
+Avoir des mises en page adaptatives différentes qui répondent à la taille du navigateur web.
 
 \--- /task ---
 
 \--- task ---
 
-Use an animation and a JavaScript observer to add some movement and interactivity.
+Utilise une animation et un observateur JavaScript pour ajouter un mouvement et une interactivité.
 
 \--- /task ---
 
 \--- task ---
 
-Use multiple JavaScript events to update HTML page elements to change the text or make the whole element appear or disappear.
+Utilise plusieurs événements JavaScript pour mettre à jour les éléments de page HTML pour modifier le texte ou faire apparaître ou disparaître l'élément entier.
 
 \--- /task ---
 
 \--- task ---
 
-Être partagé à la galerie communautaire de la Raspberry Pi Foundation pour inspirer les autres.
+Est partagé à la galerie communautaire de la Raspberry Pi Foundation pour inspirer les autres.
 
 \--- /task ---
 
-When you reflect on how you made your website, it will help you in your future projects.
+Tu peux réfléchir à la façon dont tu as créé ta page web, cela t'aidera dans tes projets futurs.
 
 Réponds aux questions ci-dessous. Tu peux dessiner, écrire, taper un document, parler à quelqu'un ou répondre aux questions de ta propre façon créative qui te convient le mieux.
 
 \--- task ---
 
-How did you choose the topic for your website?
+Comment as-tu choisi le sujet de ton site web ?
 
 \--- /task ---
 
 \--- task ---
 
-Which HTML, CSS, or JavaScript technique do you like best?
+Quelle technique HTML, CSS ou JavaScript préfères-tu ?
 
 \--- /task ---
 
 \--- task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. The web takes users on a journey and transports them to somewhere completely new!
+La conception moderne des sites web a transformé les sites web, qui étaient des murs d'informations statiques et ennuyeux, en des moyens de fournir des expériences amusantes et attrayantes à l'utilisateur. Le web emmène les utilisateurs dans un voyage et les transporte vers un endroit complètement nouveau !
 </p>
 
-In the 'More web' path you have built impressive new CSS and JavaScript skills to make your websites pop with excitement.
+Dans le parcours « Plus de web », tu as acquis de nouvelles compétences en CSS et en JavaScript impressionnantes pour rendre tes sites web super géniales.
 
-Which of these new skills was your favourite to use?
+Laquelle de ces nouvelles compétences as-tu préféré utiliser ?
 
 \--- /task ---
 
-### Now you are a skilled web developer & designer!
+### Tu es désormais un développeur et concepteur web qualifié !
 
 Prends un moment pour célébrer ce que tu as fait.
 
 \--- task ---
 
-Comment vas-tu utiliser tes nouveaux pouvoirs ? Who will you show your website to? Que feras-tu ensuite ?
+Comment vas-tu utiliser tes nouveaux pouvoirs ? À qui montreras-tu ton site web ? Que feras-tu ensuite ?
 
 \--- /task ---
