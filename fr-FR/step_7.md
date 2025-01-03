@@ -1,8 +1,8 @@
 ## Et ensuite ?
 
-You have reached the end of the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path!
+Tu as atteint la fin du parcours [Plus de web](https://projects.raspberrypi.org/fr-FR/pathways/more-web) !
 
-Now, you can create awesome interactive websites that use modern design to excite and engage users! Try using HTML, CSS, and JavaScript to create more websites.
+Tu peux désormais créer de superbes sites web interactifs qui utilisent une conception moderne pour enthousiasmer et impliquer les utilisateurs ! Essaie d'utiliser HTML, CSS et JavaScript pour créer plus de sites web.
 
 Tu peux intégrer l'un de tes projets Concevoir ou Inventer dans Coolest Projects, ou créer une toute nouvelle page web complète.
 
