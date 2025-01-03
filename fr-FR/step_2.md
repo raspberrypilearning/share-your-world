@@ -2,32 +2,32 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will plan your website, pick a topic, and design the look of your webpage.
+Dans cette étape, tu vas élaborer ton site web, choisir un sujet et concevoir l'apparence de ta page web.
 </div>
 <div>
-![A notebook showing wireframe sketches of webpages. A smartphone is next to it. Image credit: https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
+![Un carnet de notes contenant des esquisses de pages web. Un smartphone se trouve à côté. Crédit image : https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
 </div>
 </div>
 
-### Which part of your world would you like to share?
+### Quelle partie de ton monde aimerais-tu partager ?
 
 \--- task ---
 
-Think about the purpose of your website: which part of your world would you like to show off?
+Pense au but de ton site web : quelle partie de ton monde aimerais-tu montrer ?
 
 Ça pourrait être :
 
-- 🎊 Cultural – something from your culture: a festival, celebration, custom, or special location
-- 😁 Hobbies – a favourite hobby or passtime: books, TV, movies, obsession, or fandom
-- ⚽️ Sports – a sport you play or watch
-- 👗 Fashion – styles, brands, trends, decades, or designers
-- 💻 Tech – programming, computers, or the latest technology
-- 📙 History – a piece or era of history: events, people, or places throughout time
-- 🔬 Science – an area of research: studies, discoveries, recent or historical
+- 🎊 Culturel : quelque chose de ta culture : un festival, une célébration, une coutume ou un lieu spécial
+- 😁 Loisirs : un loisir ou un passe-temps favori : livres, télévision, films, obsession ou fandom
+- ⚽️ Sport : un sport que tu pratiques ou regardes
+- 👗 Mode : styles, marques, tendances, décennies ou créateurs
+- 💻 Technologie : programmation, informatique ou technologie de pointe
+- 📙 Histoire : une partie ou une époque de l’histoire : événements, personnes ou lieux à travers le temps
+- 🔬 Science : un domaine de recherche : études, découvertes, récentes ou historiques
 
-**Tip:** Choose something that you are interested in. A part of your world that you can invite the user into.
+**Astuce :** choisis quelque chose qui t'intéresse. Une partie de ton monde dans laquelle tu peux inviter l'utilisateur.
 
-You might want to build on the pages you made in [Pick your favourite](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} or [Quiz time!](https://projects.raspberrypi.org/en/projects/quiz-time){:target="_blank"} and create a larger website.
+Tu voudras peut-être créer sur les pages que tu as faites dans [Choisir ton favori](https://projects.raspberrypi.org/fr-FR/projects/pick-votre-favori){:target="_blank"} ou [Quiz !](https://projects.raspberrypi.org/fr-FR/projects/quiz-time){:target="_blank"} et créer un site web plus grand.
 
 \--- /task ---
 
@@ -35,29 +35,29 @@ You might want to build on the pages you made in [Pick your favourite](https://p
 
 \--- task ---
 
-Think about who you will make your website for. **Who** are you inviting into your world? It might be helpful to consider what you want to share about your topic.
+Pense à la personne pour qui tu vas créer ton site web. **Qui** invites-tu dans ton monde ? Il peut être utile de réfléchir à ce que tu veux partager sur ton sujet.
 
-- What does everyone need to know about your topic?
-- How will you lay out the information?
-- What can you do to make the website and topic **awesome** for them?
-
-\--- /task ---
-
-\--- task ---
-
-If you have paper and a pen or pencil, you could write down your ideas for your webpage.
-
-What colours will you use?
-
-Will you need any particular images?
-
-What will the titles of your pages be?
+- Qu’est-ce que tout le monde doit savoir sur ton sujet ?
+- Comment vas-tu présenter les informations ?
+- Que peux-tu faire pour rendre le site et le sujet **génial** pour eux ?
 
 \--- /task ---
 
 \--- task ---
 
-Open the [Share your world starter project](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. The Raspberry Pi Code Editor will open in a new tab.
+Si tu as une feuille et un stylo ou un crayon, tu peux écrire tes idées pour ta page web.
+
+Quelles couleurs utiliseras-tu ?
+
+As-tu besoin d’images particulières ?
+
+Quels seront les titres de tes pages ?
+
+\--- /task ---
+
+\--- task ---
+
+Ouvre le [projet de démarrage Partager ton monde](https://editor.raspberrypi.org/fr-FR/projects/share-your-world-starter){:target="_blank"}. Le Code Editor Raspberry Pi s'ouvre dans un autre onglet.
 
 \--- /task ---
 
