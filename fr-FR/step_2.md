@@ -5,7 +5,7 @@
 Dans cette étape, tu vas élaborer ton site web, choisir un sujet et concevoir l'apparence de ta page web.
 </div>
 <div>
-![Un carnet de notes contenant des esquisses de pages web. Un smartphone se trouve à côté. Crédit image : https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
+![Un carnet de notes contenant des esquisses de pages web. Un smartphone se trouve à côté. Crédit photo : https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
 </div>
 </div>
 
