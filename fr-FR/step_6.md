@@ -8,7 +8,7 @@ Sur ton site web, tu peux :
 
 **Ajouter au site web**
 
-Ajouter de nouvelles pages pour élargir le parcours de l’utilisateur.
+Ajoute de nouvelles pages pour élargir le parcours de l’utilisateur.
 
 **Ajouter plus de contenu**
 
