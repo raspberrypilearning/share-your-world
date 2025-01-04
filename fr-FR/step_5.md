@@ -1,6 +1,6 @@
 ## Réflexion
 
-As-tu respecté le **descriptif du projet** ? Réfléchis à ton projet et parcours la checklist ci-dessous et coche les points qui s’appliquent à ton projet.
+As-tu respecté la **description du projet** ? Réfléchis à ton projet et parcours la checklist ci-dessous et coche les points qui s’appliquent à ton projet.
 
 Est-ce que ton site web :
 
@@ -12,7 +12,7 @@ Dispose de plusieurs pages web, avec un contenu différent et une barre de navig
 
 \--- task ---
 
-Utiliser une palette de couleurs, des polices et des styles CSS qui fonctionnent bien ensemble? Tu peux demander l’avis d’autres personnes, mais tu n’es pas obligé d’apporter des modifications si tu n’es pas d’accord avec elles.
+Utilise une palette de couleurs, des polices et des styles CSS qui fonctionnent bien ensemble ? Tu peux demander l’avis d’autres personnes, mais tu n’es pas obligé d’apporter des modifications si tu n’es pas d’accord avec elles.
 
 \--- /task ---
 
@@ -38,7 +38,7 @@ Ta page web pourrait :
 
 \--- task ---
 
-Avoir des mises en page adaptatives différentes qui répondent à la taille du navigateur web.
+Avoir des mises en page réactives différentes qui répondent à la taille du navigateur web.
 
 \--- /task ---
 
