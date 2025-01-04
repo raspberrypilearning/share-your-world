@@ -1,6 +1,6 @@
 ## Introduction
 
-Dans ce projet, tu utiliseras les compétences que vtu as développées dans le parcours [Plus de web](https://projects.raspberrypi.org/fr-FR/pathways/more-web) pour créer un site web interactif en utilisant des compétences de conception modernes afin que tu puisses partager une partie de ton monde avec d'autres personnes.
+Dans ce projet, tu utiliseras les compétences que tu as développées dans le parcours [Plus de web](https://projects.raspberrypi.org/fr-FR/pathways/more-web) pour créer un site web interactif en utilisant des compétences de conception modernes afin que tu puisses partager une partie de ton monde avec d'autres personnes.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Tu aimes les animaux ? Les jeux ? Les livres ? <span style="color: #0faeb0">Crée un site web sur ce sujet !</span> Transforme tes choses préférées en site web. Partage des faits amusants, crée des quiz ou écris des commentaires. Montre à tout le monde ce que tu aimes et pourquoi !
@@ -45,7 +45,7 @@ Les images incluses dans ce projet ont été créées à l'aide d'une IA génér
 
 <hr style="border-top: 2px solid black;">
 
-Crée un site web interactif qui invite un utilisateur à expérimenter quelque chose qu'il ne peut pas faire autrement. Utilise tes compétences en HTML, CSS et JavaScript pour accueillir quelqu'un dans une partie de ton monde ! Partage ta culture, tes intérêts, tes loisirs ou ton expertise avec le monde. C'est pour cela que le world wide web a été conçu !
+Crée un site web interactif qui invite l'utilisateur à expérimenter quelque chose qu'il ne peut pas faire autrement. Utilise tes compétences en HTML, CSS et JavaScript pour accueillir quelqu'un dans une partie de ton monde ! Partage ta culture, tes intérêts, tes loisirs ou ton expertise avec le monde. C'est pour cela que le world wide web a été conçu !
 
 Ton site web devrait :
 
@@ -56,7 +56,7 @@ Ton site web devrait :
 
 Ton site web pourrait :
 
-- Avoir des mises en page différentes (adaptatives)
+- Avoir des mises en page différentes (réactives)
 - Utiliser l'observateur JavaScript pour animer les éléments de la page
 - Utiliser plusieurs événements JavaScript pour mettre à jour un élément de page
 - Utiliser localStorage pour conserver les modifications
