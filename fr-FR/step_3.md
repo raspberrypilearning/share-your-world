@@ -10,7 +10,7 @@ Il est maintenant temps de créer ton site web interactif et de partager ton suj
 </div>
 </div>
 
-**Conseil :** planifie ton projet de manière à pouvoir créer l'intégralité du site web dans le temps dont tu disposes, puis améliore-le s'il te reste du temps.
+**Astuce :** planifie ton projet de manière à pouvoir créer l'intégralité du site web dans le temps dont tu disposes, puis améliore-le s'il te reste du temps.
 
 **Astuce :** n'oublie pas de tester ton projet chaque fois que tu ajoutes quelque chose. Il est beaucoup plus facile de trouver et de corriger les bogues avant d'apporter d'autres modifications.
 
@@ -220,7 +220,7 @@ Ajoute du code à ton nouveau fichier pour ajouter de l'interactivité à ton si
 
 [[[intersection-observer-thresholds]]]
 
-**Astuce :** si tu ne veux que tes observateurs pour une seule page, fais un fichier `.js` séparé et le lie **seulement** sur la page où il est nécessaire.
+**Astuce :** si tu ne veux que tes observateurs pour une seule page, fais un fichier `.js` séparé et lie-le **seulement** sur la page où il est nécessaire.
 
 [[[linking-js-html]]]
 
