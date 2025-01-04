@@ -52,27 +52,21 @@ const project2 = document.querySelector('#project2');
 function scratch() {
   languageHeading.innerText = 'Scratch';
   languageText.innerText =
-    'Scratch is a block based coding environment \n \
-    It is perfect for beginners but also those who want to get more confident with coding. \n \
-    Here are some projects you might like!';
+    'Scratch is een blokgebaseerde programmeeromgeving \n     Dit is perfect voor beginners, maar ook voor hen die meer vertrouwen willen krijgen in programmeren. \n     Hier zijn enkele projecten die je misschien leuk vindt!';
   project1.innerText = 'projects.raspberrypi.org/en/projects/alien-language';
   project2.innerText = 'projects.raspberrypi.org/en/projects/beat-the-goalie';
 }
 function python() {
   languageHeading.innerText = 'Python';
   languageText.innerText =
-    'Python is a text-based programming language. \n \
-    It uses commands in plain English, which makes it simpler to understand. \n \
-    Here are some projects you might like!';
+    'Python is een op tekst gebaseerde programmeertaal. \n     De taal gebruikt opdrachten in eenvoudig Engels, waardoor het makkelijker te begrijpen is. \n     Hier zijn een paar projecten die je misschien leuk vindt!';
   project1.innerText = 'projects.raspberrypi.org/en/projects/hello-world';
   project2.innerText = 'projects.raspberrypi.org/en/projects/colourful-creations';
 }
 function unity() {
   languageHeading.innerText = 'C#';
   languageText.innerText =
-    'C# is a more advanced text based programming language. \n \
-    There are loads of awesome things you can do with it. Like creating games with the Unity engine! \n \
-    Here are some projects you might like!';
+    'C# is een meer geavanceerde tekstgebaseerde programmeertaal. \n     Er zijn een heleboel geweldige dingen die je ermee kunt doen. Zoals het maken van games met de Unity engine! \n     Hier zijn een paar projecten die je misschien leuk vindt!';
   project1.innerText = 'projects.raspberrypi.org/en/projects/explore-a-3d-world';
   project2.innerText = 'projects.raspberrypi.org/en/projects/star-collector';
 }
