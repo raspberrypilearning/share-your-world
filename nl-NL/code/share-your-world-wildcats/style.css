@@ -173,7 +173,7 @@ input:checked + .slider:before {
   color: white;
 }
 
-/* Dark Mode Styles */
+/* Donkere Modus Stijlen */
 body.dark-mode {
   background-color: var(--nav-background-colour);
   color: white;
@@ -223,12 +223,12 @@ body {
 }
 
 .scrolling-section {
-  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-y: auto; /* Verticaal scrollen inschakelen */
   position: relative;
   transition: background 0.3s, color 0.3s;
 }
 
-/* Parallax section styling */
+/* Parallax-sectie-styling */
 .bball {
   position: relative;
   background-position: center;
