@@ -97,6 +97,6 @@ Les images incluses dans ce projet ont été créées à l'aide d'une IA génér
 
 \--- print-only ---
 
-![Wildcats complete project](images/wildcats.png)
+![Projet complet des Wildcats](images/wildcats.png)
 
 \--- /print-only ---
