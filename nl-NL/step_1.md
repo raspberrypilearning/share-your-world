@@ -1,16 +1,16 @@
 ## Inleiding
 
-In this project, you will use the skills you developed in the [More web](https://projects.raspberrypi.org/en/pathways/more-web) path to create an interactive website using modern design skills so that you can share a part of your world with others.
+In dit project ga je de vaardigheden die je hebt ontwikkeld in het [More web](https://projects.raspberrypi.org/en/pathways/more-web)-pad gebruiken om een interactieve website te maken met behulp van moderne ontwerpvaardigheden, zodat je een deel van je wereld met anderen kunt delen.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Love animals? Spellen? Books? <span style="color: #0faeb0">Build a website about it!</span> Turn your favourite things into a website. Share fun facts, create quizzes, or write reviews — show everyone why you love what you love!
+Houd je van dieren? Spellen? Boeken? <span style="color: #0faeb0">Bouw een website erover!</span> Maak een website van je favoriete dingen. Deel leuke weetjes, maak quizzen of schrijf recensies: laat iedereen zien waarom je van iets houdt!
 </p>
 
 Je gaat:
 
-- Build an interactive website to share a part of your world
-- Create multiple pages and link them together
-- Use CSS to style your website
+- Bouw een interactieve website om een deel van je wereld te delen
+- Maak meerdere pagina's en koppel ze aan elkaar
+- Gebruik CSS om je website op te maken
 - Use JavaScript to add interactivity to your site
 
 \--- no-print ---
