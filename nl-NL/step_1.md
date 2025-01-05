@@ -11,7 +11,7 @@ Je gaat:
 - Bouw een interactieve website om een deel van je wereld te delen
 - Maak meerdere pagina's en koppel ze aan elkaar
 - Gebruik CSS om je website op te maken
-- Use JavaScript to add interactivity to your site
+- Gebruik JavaScript om interactiviteit aan je website toe te voegen
 
 \--- no-print ---
 
@@ -19,9 +19,9 @@ Je gaat:
 
 ### Probeer het uit
 
-Can you identify the ways CSS and JavaScript have been used to make this website interactive? What HTML elements have been used to present the information?
+Kun je de manieren identificeren waarop CSS en JavaScript zijn gebruikt om deze website interactief te maken? Welke HTML-elementen zijn gebruikt om de informatie te presenteren?
 
-**Coding Journey**: [See inside](https://editor.raspberrypi.org/en/projects/share-your-world-coding){:target="_blank"}
+**Codeer Avontuur**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/share-your-world-coding){:target="_blank"}
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-coding" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
@@ -41,17 +41,17 @@ Afbeeldingen die zijn opgenomen in dit project zijn gemaakt met behulp van gener
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Build an interactive website!
+### PROJECTBRIEF: Bouw een interactieve website!
 
 <hr style="border-top: 2px solid black;">
 
-Create an interactive website that invites a user to experience something they cannot otherwise. Use your HTML, CSS, and JavaScript skills to welcome someone into a part of your world! Share your culture, interests, hobbies, or expertise with the world. It is what the world wide web was designed for!
+Maak een interactieve website die gebruikers uitnodigt om iets te ervaren wat ze anders niet zouden kunnen. Gebruik je HTML, CSS en JavaScript vaardigheden om iemand in een deel van je wereld te verwelkomen! Deel jouw cultuur, interesses, hobby's of expertise met de wereld. Daar is het wereldwijde web voor ontworpen!
 
-Your website should:
+Je website moet:
 
-- Include more than one page and use a navigation bar
-- Use a grid or flex layout
-- Use JavaScript to update a page element
+- Meer dan één pagina bevatten en een navigatiebalk gebruiken
+- Een raster of flex layout moeten gebruiken
+- JavaScript moeten gebruiken om een pagina-element bij te werken
 - Include alt-text for images
 
 Your website could:
