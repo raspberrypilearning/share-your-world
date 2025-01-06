@@ -2,35 +2,35 @@
 
 Voldoet je project aan de projectsamenvatting\*\*? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
-Does your website:
+Heeft je website:
 
 \--- task ---
 
-Have multiple webpages, with different content and a navigation bar to help a user move between them?
+Meerdere webpagina's, met verschillende inhoud en een navigatiebalk waarmee de gebruiker gemakkelijk tussen de pagina's kan navigeren?
 
 \--- /task ---
 
 \--- task ---
 
-Een kleurenpalet, lettertypen en CSS-stijlen moeten gebruiken die goed samengaan? Je kunt andere mensen om hun mening vragen, maar je hoeft niets te veranderen als je het niet met hen eens bent.
+Een kleurenpalet, lettertypen en CSS-stijlen gebruikt die goed samengaan? Je kunt andere mensen om hun mening vragen, maar je hoeft niets te veranderen als je het niet met hen eens bent.
 
 \--- /task ---
 
 \--- task ---
 
-Have multiple types of layout, and at least one grid to organise your content?
+Meerdere lay-outtypen, en tenminste één raster om je inhoud te organiseren?
 
 \--- /task ---
 
 \--- task ---
 
-Use JavaScript and the DOM to update HTML page elements?
+JavaScript en de DOM gebruikt om HTML-pagina-elementen bij te werken?
 
 \--- /task ---
 
 \--- task ---
 
-Provide accessibility through a good colour contrast and easily readable font sizes?
+Een goede toegankelijkheid door een goed kleurencontrast en goed leesbare lettergroottes?
 
 \--- /task ---
 
@@ -38,19 +38,19 @@ Je webpagina zou:
 
 \--- task ---
 
-Have different adaptive layouts that respond to the size of the web browser.
+Verschillende adaptieve lay-outs kunnen hebben die reageren op de grootte van de webbrowser.
 
 \--- /task ---
 
 \--- task ---
 
-Use an animation and a JavaScript observer to add some movement and interactivity.
+Een animatie en een JavaScript observator kunnnen gebruiken om wat beweging en interactiviteit toe te voegen.
 
 \--- /task ---
 
 \--- task ---
 
-Use multiple JavaScript events to update HTML page elements to change the text or make the whole element appear or disappear.
+Meerdere JavaScript-gebeurtenissen kunnen gebruiken om HTML-pagina-elementen bij te werken om de tekst te wijzigen of het hele element te laten verschijnen of verdwijnen.
 
 \--- /task ---
 
@@ -60,40 +60,40 @@ Kunnen worden gedeeld met de Raspberry Pi Foundation galerij om anderen te inspi
 
 \--- /task ---
 
-When you reflect on how you made your website, it will help you in your future projects.
+Wanneer je nadenkt over hoe je je website hebt gemaakt, helpt dit je in je toekomstige projecten.
 
 Beantwoord de onderstaande vragen. Je kunt tekenen, schrijven, typen in een document, met iemand praten, of de vragen beantwoorden op je eigen creatieve manier die het beste voor je werkt.
 
 \--- task ---
 
-How did you choose the topic for your website?
+Hoe heb je het onderwerp voor je website gekozen?
 
 \--- /task ---
 
 \--- task ---
 
-Which HTML, CSS, or JavaScript technique do you like best?
+Welke HTML, CSS of JavaScript-techniek vind je het leukste?
 
 \--- /task ---
 
 \--- task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. The web takes users on a journey and transports them to somewhere completely new!
+Dankzij modern webdesign zijn websites niet langer statische, saaie informatieblokken, maar zijn ze een platform dat de gebruiker een leuke en boeiende ervaring biedt. Het web neemt gebruikers mee op reis en transporteert ze naar een compleet nieuwe plek!
 </p>
 
-In the 'More web' path you have built impressive new CSS and JavaScript skills to make your websites pop with excitement.
+In het pad 'Meer web' heb je indrukwekkende nieuwe CSS- en JavaScript-vaardigheden ontwikkeld waarmee je je websites een boost geeft.
 
-Which of these new skills was your favourite to use?
+Welke van deze nieuwe vaardigheden vond je het leukst om te gebruiken?
 
 \--- /task ---
 
-### Now you are a skilled web developer & designer!
+### Nu ben je een ervaren webontwikkelaar en ontwerper!
 
 Neem even de tijd om dit te vieren.
 
 \--- task ---
 
-Waar ga je met je nieuwe kennis doen? Who will you show your website to? Wat ga je hierna maken?
+Waar ga je met je nieuwe kennis doen? Aan wie ga je je website laten zien? Wat ga je hierna maken?
 
 \--- /task ---
