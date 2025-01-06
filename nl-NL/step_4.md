@@ -1,4 +1,4 @@
-## Deel
+## Delen
 
 Het is nu tijd om jouw webpagina te delen, zodat deze bezoekers kan ontvangen.
 
