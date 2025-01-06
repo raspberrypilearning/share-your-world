@@ -2,23 +2,23 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to build your interactive website and share your topic with the world! 
+Nu is het tijd om jouw interactieve website te bouwen en jouw onderwerp met de wereld te delen! 
 
 </div>
 <div>
-![The 'Wildcats' website example](images/wildcats.png){:width="300px"}
+![Het 'Wildcats' website voorbeeld](images/wildcats.png){:width="300px"}
 </div>
 </div>
 
-**Tip:** Plan your project so you can create the whole website in the time you have available and then upgrade the project if you have time left.
+**Tip:** Plan jouw project zodat je de hele webpagina kunt maken in de tijd die je nu hebt voorzien en vervolgens het project kunt upgraden als je nog tijd over hebt.
 
 \*\*Tip: \*\* Vergeet niet om je project elke keer te testen wanneer je iets toevoegt. Het is veel gemakkelijker om bugs te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
-### Create your palette
+### Creëer je eigen palet
 
 \--- task ---
 
-Open `default.css` and set up your colours and fonts for the project.
+Open `default.css` en stel je kleuren en lettertypen in voor het project.
 
 [[[contrast-checker]]]
 
@@ -36,11 +36,11 @@ Kies lettertypen om te gebruiken op je webpagina.
 
 \--- /task ---
 
-### Create your homepage
+### Maak jouw startpagina aan
 
 \--- task ---
 
-Open `index.html` and start to create your homepage.
+Open `index.html` en begin met het maken van je startpagina.
 
 [[[overall-page-structure]]]
 
@@ -52,11 +52,11 @@ Open `index.html` and start to create your homepage.
 
 \--- /task ---
 
-### Create your other pages
+### Maak je andere pagina's
 
 \--- task ---
 
-Create new files for your other pages, add them to your navigation bar.
+Maak nieuwe bestanden voor je andere pagina's, voeg ze toe aan je navigatiebalk.
 
 [[[editor-add-file]]]
 
@@ -68,11 +68,11 @@ Create new files for your other pages, add them to your navigation bar.
 
 \--- /task ---
 
-### Create and style your content
+### Je inhoud maken en opmaken
 
 \--- task ---
 
-Create the content of your website and add CSS styling to make it look awesome!
+Maak de inhoud van je website en voeg CSS-stijl toe om het er geweldig uit te laten zien!
 
 #### HTML
 
@@ -160,15 +160,15 @@ Create the content of your website and add CSS styling to make it look awesome!
 
 \--- task ---
 
-**Click Run** to make sure you are happy with your content. There is a **Debugging** section further down to help you fix any problems.
+**Klik op Run** om te controleren of je tevreden bent met de inhoud. Hieronder vind je een sectie **Foutopsporing**, waarmee je eventuele problemen kunt oplossen.
 
 \--- /task ---
 
-### Add JavaScript to your website
+### Voeg JavaScript toe aan je website
 
 \--- task ---
 
-Create a new `scripts.js` file and add it to your webpages.
+Maak een nieuw `scripts.js` bestand en voeg het toe aan je webpagina's.
 
 [[[linking-js-html]]]
 
@@ -176,15 +176,15 @@ Create a new `scripts.js` file and add it to your webpages.
 
 \--- task ---
 
-Add code to your new file to add interactivity to your website!
+Voeg code toe aan je nieuwe bestand om jouw website interactiever te maken!
 
-#### Trigger your JavaScript with events and functions
+#### Activeer je JavaScript met gebeurtenissen (events) en functies
 
 [[[events-javascript]]]
 
 [[[writing-js-functions]]]
 
-#### Tips for writing JavaScript
+#### Tips voor het schrijven van JavaScript
 
 [[[conditional-statements-js]]]
 
@@ -196,7 +196,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[date-time-javascript]]]
 
-#### Manipulate HTML elements
+#### HTML-elementen manipuleren
 
 [[[dom-manipulation]]]
 
@@ -208,7 +208,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[classlist-property]]]
 
-#### Use intersection observers
+#### Gebruik intersection observatoren
 
 [[[intersection-observer]]]
 
@@ -220,7 +220,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[intersection-observer-thresholds]]]
 
-**Tip:** If you only want your observers for a single page, make a seperate `.js` file and link it **only** on the page where it is needed.
+**Tip:** Als je je observatoren alleen op één pagina wilt hebben, maak dan een apart `.js`-bestand en koppel dit **alleen** aan de pagina waar het nodig is.
 
 [[[linking-js-html]]]
 
