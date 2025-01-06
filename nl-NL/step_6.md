@@ -1,35 +1,35 @@
 ## Verbeter je project
 
-Als je tijd hebt, kun je jouw project verbeteren. You might already have ideas to add, or you might want to go back to the first step and look at other projects again for more inspiration.
+Als je tijd hebt, kun je jouw project verbeteren. Je hebt misschien al meer ideeën om toe te voegen of je wilt teruggaan naar de eerste stap en andere projecten opnieuw bekijken voor meer inspiratie.
 
 \--- task ---
 
-On your website you could:
+Op je website zou je kunnen:
 
-**Add to the website**
+**Toevoegen aan de website**
 
-Add new pages to expand the journey for the user.
+Voeg nieuwe pagina's toe om de ervaring voor de gebruiker uit te breiden.
 
-**Add more content**
+**Meer inhoud toevoegen**
 
-- New sections with different layouts
-- More content for people to read and discover
-- Add to existing content to dive a little deeper
+- Nieuwe secties met verschillende lay-outs
+- Meer inhoud voor mensen om te lezen en ontdekken
+- Nog wat extra informatie toevoegen aan bestaande inhoud om er wat dieper op in te gaan
 
-**Improve the visual design**
+**Verbeter het visuele ontwerp**
 
-- Use interaction styling to change elements when a user interacts with them
-- Add more colours
-- Add more fonts
-- Change the grid layouts
-- Make the design responsive
+- Gebruik interactiestijlen om elementen te wijzigen wanneer een gebruiker ermee communiceert
+- Voeg meer kleuren toe
+- Voeg meer letterypen toe
+- Wijzig de rasterindelingen
+- Maak het ontwerp responsief
 
-**Add more interaction with JavaScript**
+**Voeg meer interactie toe met JavaScript**
 
-- Create new observers to add animations
-- Use events to update more of the content
-- Add choices so the user can make the website their own
-- Use localStorage to save changes made by the user
+- Maak nieuwe observatoren aan om animaties toe te voegen
+- Gebruik gebeurtenissen om meer van de inhoud bij te werken
+- Voeg keuzes toe zodat de gebruiker de website naar eigen wens kan aanpassen
+- Gebruik localStorage om door de gebruiker aangebrachte wijzigingen op te slaan
 
 [[[local-storage-javascript]]]
 
