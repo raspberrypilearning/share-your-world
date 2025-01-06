@@ -50,16 +50,16 @@ Maak een interactieve website die gebruikers uitnodigt om iets te ervaren wat ze
 Je website moet:
 
 - Meer dan één pagina bevatten en een navigatiebalk gebruiken
-- Een raster of flex layout moeten gebruiken
-- JavaScript moeten gebruiken om een pagina-element bij te werken
-- Include alt-text for images
+- Een raster of flex layout gebruiken
+- JavaScript gebruiken om een pagina-element bij te werken
+- Alt-text voor afbeeldingen gebruiken
 
-Your website could:
+Je website kan:
 
-- Have different (adaptive) layouts
-- Use the JavaScript observer to animate page elements
-- Use multiple JavaScript events to update a page element
-- Make use of localStorage to keep changes
+- Verschillende (adaptieve) lay-outs hebben
+- De JavaScript-observator gebruiken om pagina-elementen te animeren
+- Meerdere JavaScript elementen gebruiken om een pagina-element bij te werken
+- Gebruik maken van localStorage om wijzigingen op te slaan
 
 </div>
 
@@ -75,7 +75,7 @@ Terwijl je naar deze webpagina's kijkt, bedenk dan wat ze nuttig en informatief 
 
 <div>
 
-**Wildcats** [See inside](https://editor.raspberrypi.org/en/projects/share-your-world-wildcats){:target="_blank"}
+**Wildcats** [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/share-your-world-wildcats){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/share-your-world-wildcats" width="100%" height="800" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -97,6 +97,6 @@ Afbeeldingen die zijn opgenomen in dit project zijn gemaakt met behulp van gener
 
 \--- print-only ---
 
-![Wildcats complete project](images/wildcats.png)
+![Wildcats voltooid project](images/wildcats.png)
 
 \--- /print-only ---
