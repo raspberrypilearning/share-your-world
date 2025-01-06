@@ -2,32 +2,32 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will plan your website, pick a topic, and design the look of your webpage.
+In deze stap plan je je website, kies je een onderwerp en ontwerp je het uiterlijk van je webpagina.
 </div>
 <div>
-![A notebook showing wireframe sketches of webpages. A smartphone is next to it. Image credit: https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
+![Een notitieboekje met wireframe schetsen van webpagina's. Er ligt een smartphone naast. Afbeeldingen credit: https://pixabay.com/fotos/plans-design-web-design-1867745/](images/webDesign.jpg){:width="300px"}
 </div>
 </div>
 
-### Which part of your world would you like to share?
+### Welk deel van jouw wereld wil je delen?
 
 \--- task ---
 
-Think about the purpose of your website: which part of your world would you like to show off?
+Denk na over het doel van jouw website: welk deel van je wereld wil je laten zien?
 
 Dat kan zijn:
 
-- 🎊 Cultural – something from your culture: a festival, celebration, custom, or special location
-- 😁 Hobbies – a favourite hobby or passtime: books, TV, movies, obsession, or fandom
-- ⚽️ Sports – a sport you play or watch
-- 👗 Fashion – styles, brands, trends, decades, or designers
-- 💻 Tech – programming, computers, or the latest technology
-- 📙 History – a piece or era of history: events, people, or places throughout time
-- 🔬 Science – an area of research: studies, discoveries, recent or historical
+- 🎊 Cultureel – iets uit jouw cultuur: een festival, viering, gewoonte of speciale locatie
+- 😁 Hobby's – een favoriete hobby of tijdverdrijf: boeken, tv, films, obsessie of fandom
+- ⚽ Sport - een sport die je speelt of kijkt
+- 👗 Mode – stijlen, merken, trends, decennia of ontwerpers
+- 💻 Tech - programmeren, computers, of de nieuwste technologie
+- 📙 Geschiedenis – een stuk of tijdperk van de geschiedenis: gebeurtenissen, mensen of plaatsen door de tijd heen
+- 🔬 Wetenschap – een onderzoeksgebied: studies, ontdekkingen, recent of historisch
 
-**Tip:** Choose something that you are interested in. A part of your world that you can invite the user into.
+**Tip:** Kies iets waar je in geïnteresseerd bent. Een deel van je wereld waarin je de gebruiker kunt uitnodigen.
 
-You might want to build on the pages you made in [Pick your favourite](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} or [Quiz time!](https://projects.raspberrypi.org/en/projects/quiz-time){:target="_blank"} and create a larger website.
+Misschien wil je op de pagina's die je hebt gemaakt verder uitbouwen [Kies je favoriet](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} of [Tijd voor een Quiz!](https://projects.raspberrypi.org/nl/projects/quiz-time){:target="_blank"} en een grotere website maken.
 
 \--- /task ---
 
@@ -35,29 +35,29 @@ You might want to build on the pages you made in [Pick your favourite](https://p
 
 \--- task ---
 
-Think about who you will make your website for. **Who** are you inviting into your world? It might be helpful to consider what you want to share about your topic.
+Denk na voor wie je je website maakt. **Wie** nodig jij uit in jouw wereld? Het kan handig zijn om eerst na te denken over wat je wilt delen over je onderwerp.
 
-- What does everyone need to know about your topic?
-- How will you lay out the information?
-- What can you do to make the website and topic **awesome** for them?
-
-\--- /task ---
-
-\--- task ---
-
-If you have paper and a pen or pencil, you could write down your ideas for your webpage.
-
-What colours will you use?
-
-Will you need any particular images?
-
-What will the titles of your pages be?
+- Wat moet iedereen weten over jouw onderwerp?
+- Hoe ga je de informatie presenteren?
+- Wat kun je doen om de website en het onderwerp **geweldig** voor hen te maken?
 
 \--- /task ---
 
 \--- task ---
 
-Open the [Share your world starter project](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. The Raspberry Pi Code Editor will open in a new tab.
+Als je papier en pen of een potlood hebt, kun je je ideeën voor je webpagina opschrijven.
+
+Welke kleuren ga je gebruiken?
+
+Heb je bepaalde afbeeldingen nodig?
+
+Wat worden de titels van jouw pagina's?
+
+\--- /task ---
+
+\--- task ---
+
+Open het [Deel je wereld start project](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. De Raspberry Pi Code Editor wordt geopend in een nieuw tabblad.
 
 \--- /task ---
 
