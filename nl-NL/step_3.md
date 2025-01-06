@@ -226,13 +226,13 @@ Voeg code toe aan je nieuwe bestand om jouw website interactiever te maken!
 
 \--- /task ---
 
-### Debugging
+### Foutopsporing
 
 \--- task ---
 
-**Click Run** and test your project.
+**Klik op Run** en test je project.
 
-Debug your website and make sure everything works as you intended it to.
+Debug je website en zorg ervoor dat alles werkt zoals je dat bedoeld hebt.
 
 [[[incorrect-tags]]]
 
@@ -250,11 +250,11 @@ We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de **Stuur fee
 
 \--- /task ---
 
-### Accessibility check
+### Toegankelijkheidscontrole
 
 \--- task ---
 
-Check that your website is accessible with contrasting colours, alt-text, and that it looks great on all sizes of screen.
+Controleer of je website toegankelijk is met contrasterende kleuren en alt-tekst en of de website er op alle schermformaten goed uitziet.
 
 [[[contrast-checker]]]
 
