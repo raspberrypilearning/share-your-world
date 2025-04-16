@@ -41,7 +41,7 @@ Afbeeldingen die zijn opgenomen in dit project zijn gemaakt met behulp van gener
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECTBRIEF: Bouw een interactieve website!
+### PROJECTPLAN: Bouw een interactieve website!
 
 <hr style="border-top: 2px solid black;">
 
