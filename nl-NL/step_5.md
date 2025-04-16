@@ -1,6 +1,6 @@
 ## Reflectie
 
-Voldoet je project aan de projectsamenvatting\*\*? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
+Voldoet je project aan het **projectplan**? Denk na over je project en doorloop de onderstaande checklist en vink af wat van toepassing is op je project.
 
 Heeft je website:
 
@@ -44,7 +44,7 @@ Verschillende adaptieve lay-outs kunnen hebben die reageren op de grootte van de
 
 \--- task ---
 
-Een animatie en een JavaScript observator kunnnen gebruiken om wat beweging en interactiviteit toe te voegen.
+Een animatie en een JavaScript observator kunnen gebruiken om wat beweging en interactiviteit toe te voegen.
 
 \--- /task ---
 
