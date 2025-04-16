@@ -36,7 +36,7 @@ Kies lettertypen om te gebruiken op je webpagina.
 
 \--- /task ---
 
-### Maak jouw startpagina aan
+### Maak jouw startpagina
 
 \--- task ---
 
