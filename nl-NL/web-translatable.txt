@@ -1,0 +1,71 @@
+Titel die in webbrowsers wordt weergegeven
+
+The navigation bar code goes here
+
+De hoofdinhoud van de webpagina bevindt zich tussen de main tags
+
+Voettekst code komt hier
+
+Please pick an option!
+
+Language quiz
+
+Update score
+
+Hide Alert
+
+Increase score
+
+Change question
+
+Languages
+
+Include CSS style files
+
+Waarnemers
+
+COLOUR MODE
+
+Check if colour mode preference is stored in local storage
+
+Set initial colour mode state based on the stored preference
+
+Check if colour mode is already active
+
+Update body class and store the user's preference in local storage
+
+PARALLAX SCROLLING
+
+Fade-in effect
+
+Stop observing once the section is visible
+
+TIMELINE
+
+Initial events
+
+Wildcats formed
+
+Joined National League
+
+Won Championship trophy
+
+Now
+
+Function to put events on the timeline
+
+Calculate the percentage width based on the time difference
+
+Function to add a new event
+
+Sort events chronologically
+
+Add initial events when the page loads
+
+Mouse rollover
+
+Add event listener for adding a new event
+
+Please fill in both the year and event fields.
+
+
