@@ -1,71 +1,71 @@
 Titel die in webbrowsers wordt weergegeven
 
-The navigation bar code goes here
+De code voor de navigatiebalk komt hier
 
 De hoofdinhoud van de webpagina bevindt zich tussen de main tags
 
-Voettekst code komt hier
+Code voor de voettekst komt hier
 
-Please pick an option!
+Kies een optie!
 
-Language quiz
+Taalquiz
 
-Update score
+Score bijwerken
 
-Hide Alert
+Waarschuwing verbergen
 
-Increase score
+Verhoog de score
 
-Change question
+Vraag wijzigen
 
-Languages
+Talen
 
-Include CSS style files
+CSS-stijlbestand toevoegen
 
-Waarnemers
+Observatoren
 
-COLOUR MODE
+KLEUR MODUS
 
-Check if colour mode preference is stored in local storage
+Controleer of de voorkeur van de kleurmodus is opgeslagen in lokale opslag
 
-Set initial colour mode state based on the stored preference
+Status van de initiële kleur instellen op basis van de opgeslagen voorkeur
 
-Check if colour mode is already active
+Controleer of de kleurmodus al actief is
 
-Update body class and store the user's preference in local storage
+Werk de body-klasse bij en sla de voorkeur van de gebruiker op in de lokale opslag
 
-PARALLAX SCROLLING
+PARALLAX SCROLLEN
 
 Fade-in effect
 
-Stop observing once the section is visible
+Stop met observeren zodra de sectie zichtbaar is
 
-TIMELINE
+TIJDLIJN
 
-Initial events
+Initiële gebeurtenissen
 
-Wildcats formed
+Wildcats opgericht
 
-Joined National League
+Toegetreden tot de Nationale Liga
 
-Won Championship trophy
+Kampioensbeker gewonnen
 
-Now
+Nu
 
-Function to put events on the timeline
+Functie om gebeurtenissen op de tijdlijn te plaatsen
 
-Calculate the percentage width based on the time difference
+Bereken de procentuele breedte op basis van het tijdsverschil
 
-Function to add a new event
+Functie om een nieuwe gebeurtenis toe te voegen
 
-Sort events chronologically
+Gebeurtenissen chronologisch sorteren
 
-Add initial events when the page loads
+Voeg begingebeurtenissen toe wanneer de pagina wordt geladen
 
-Mouse rollover
+Muisbeweging
 
-Add event listener for adding a new event
+Event listener toevoegen voor het toevoegen van een nieuwe gebeurtenis
 
-Please fill in both the year and event fields.
+Vul zowel de velden voor het jaar als voor de gebeurtenis in.
 
 
