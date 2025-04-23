@@ -5,7 +5,7 @@
 In deze stap plan je je website, kies je een onderwerp en ontwerp je het uiterlijk van je webpagina.
 </div>
 <div>
-![Een notitieboekje met wireframe schetsen van webpagina's. Er ligt een smartphone naast. Afbeeldingen credit: https://pixabay.com/fotos/plans-design-web-design-1867745/](images/webDesign.jpg){:width="300px"}
+![Een notitieboekje met wireframe schetsen van webpagina's. Er ligt een smartphone naast. Afbeeldingen credit: https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
 </div>
 </div>
 
@@ -27,7 +27,7 @@ Dat kan zijn:
 
 **Tip:** Kies iets waar je in geïnteresseerd bent. Een deel van je wereld waarin je de gebruiker kunt uitnodigen.
 
-Misschien wil je op de pagina's die je hebt gemaakt verder uitbouwen [Kies je favoriet](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} of [Tijd voor een Quiz!](https://projects.raspberrypi.org/nl/projects/quiz-time){:target="_blank"} en een grotere website maken.
+Misschien wil je op de pagina's die je hebt gemaakt verder uitbouwen [Kies je favoriet](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} of [Tijd voor een Quiz!](https://projects.raspberrypi.org/en/projects/quiz-time){:target="_blank"} en een grotere website maken.
 
 \--- /task ---
 
