@@ -20,15 +20,15 @@ Vraag wijzigen
 
 Talen
 
-CSS-stijlbestand toevoegen
+CSS-stijlbestanden toevoegen
 
 Observatoren
 
-KLEUR MODUS
+KLEURMODUS
 
 Controleer of de voorkeur van de kleurmodus is opgeslagen in lokale opslag
 
-Status van de initiële kleur instellen op basis van de opgeslagen voorkeur
+Stel de initiële kleurtoestand in op basis van de opgeslagen voorkeur
 
 Controleer of de kleurmodus al actief is
 
