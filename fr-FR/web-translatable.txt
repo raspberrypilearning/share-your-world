@@ -1,71 +1,71 @@
 Titre affiché dans les navigateurs web
 
-The navigation bar code goes here
+Le code de la barre de navigation va ici
 
 Le contenu principal de la page web se situe entre les balises principales
 
 Le code de pied de page va ici
 
-Please pick an option!
+Veuillez choisir une option !
 
-Language quiz
+Quiz de langue
 
-Update score
+Mettre à jour le score
 
-Hide Alert
+Cacher l'alerte
 
-Increase score
+Augmenter le score
 
-Change question
+Changer de question
 
-Languages
+Langues
 
-Include CSS style files
+Inclure le fichier de style CSS
 
 Observateurs
 
-COLOUR MODE
+MODE COULEUR
 
-Check if colour mode preference is stored in local storage
+Vérifier si la préférence du mode couleur est stockée dans le stockage local
 
-Set initial colour mode state based on the stored preference
+Définir l'état initial du mode couleur en fonction de la préférence enregistrée
 
-Check if colour mode is already active
+Vérifier si le mode couleur est déjà actif
 
-Update body class and store the user's preference in local storage
+Mettre à jour la classe du corps et stocker la préférence de l'utilisateur dans le stockage local
 
-PARALLAX SCROLLING
+DÉFILEMENT PARALLAXE
 
-Fade-in effect
+Effet de fondu
 
-Stop observing once the section is visible
+Arrêter d'observer une fois que la section est visible
 
-TIMELINE
+CHRONOLOGIE
 
-Initial events
+Événements initiaux
 
-Wildcats formed
+Wildcats formés
 
-Joined National League
+A rejoint la Ligue nationale
 
-Won Championship trophy
+A remporté le trophée du championnat
 
-Now
+Actuel
 
-Function to put events on the timeline
+Fonction permettant de placer des événements sur la chronologie
 
-Calculate the percentage width based on the time difference
+Calculer le pourcentage de largeur en fonction de la différence de temps
 
-Function to add a new event
+Fonction pour ajouter un nouvel événement
 
-Sort events chronologically
+Trier les événements par ordre chronologique
 
-Add initial events when the page loads
+Ajouter des événements initiaux lors du chargement de la page
 
-Mouse rollover
+Survol de la souris
 
-Add event listener for adding a new event
+Ajouter un event listener pour ajouter un nouvel événement
 
-Please fill in both the year and event fields.
+Veuillez remplir les champs année et événement.
 
 
