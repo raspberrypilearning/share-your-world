@@ -27,7 +27,7 @@ Pense au but de ton site web : quelle partie de ton monde aimerais-tu montrer 
 
 **Astuce :** choisis quelque chose qui t'intéresse. Une partie de ton monde dans laquelle tu peux inviter l'utilisateur.
 
-Tu voudras peut-être créer sur les pages que tu as faites dans [Choisir ton favori](https://projects.raspberrypi.org/fr-FR/projects/pick-votre-favori){:target="_blank"} ou [Quiz !](https://projects.raspberrypi.org/fr-FR/projects/quiz-time){:target="_blank"} et créer un site web plus grand.
+Tu voudras peut-être créer sur les pages que tu as faites dans [Choisir ton favori](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} ou [Quiz !](https://projects.raspberrypi.org/en/projects/quiz-time){:target="_blank"} et créer un site web plus grand.
 
 \--- /task ---
 
