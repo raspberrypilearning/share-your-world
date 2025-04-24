@@ -1,0 +1,22 @@
+---
+title: Partager ton monde
+hero_image: images/banner.png
+description: Crée un site web interactif pour partager une partie de ton monde
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-3-25"
+steps:
+  - title: Introduction
+  - title: Ton sujet
+  - title: Créer et tester
+    completion:
+      - engaged
+  - title: Partager
+    completion:
+      - internal
+  - title: Réflexion
+    completion:
+      - external
+  - title: Améliorer ton projet
+  - title: Et ensuite ?

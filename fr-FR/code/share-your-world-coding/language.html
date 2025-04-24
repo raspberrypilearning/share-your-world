@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- Titre affiché dans les navigateurs web -->
+    <title>Titre de mon site web</title>
+    <!-- Inclure le fichier de style CSS -->
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="default.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <!-- Le code de la barre de navigation va ici -->
+    <header>
+      <nav>
+        <div class="nav-items">
+          <a href="index.html">Accueil</a>
+          <a class="active" href="language.html">Trouver un langage</a>
+        </div>
+      </nav>
+      <div class="hero-image"></div>
+    </header>
+
+    <!-- Le contenu principal de la page web se situe entre les balises principales -->
+    <main>
+      <main>
+        <section>
+          <h1>Trouve le langage qui te convient !</h1>
+          <p>Réponds à ce quiz pour découvrir le langage de programmation qui te convient !</p>
+        </section>
+        <section id="alert"></section>
+        <div class="q-container content">
+          <h1>Question 1</h1>
+          <h2>As-tu déjà fait du codage ?</h2>
+  
+          <input type="radio" name="q1" value="1">
+          <label for="option1">Pas du tout</label><br>
+          
+          <input type="radio" name="q1" value="2">
+          <label for="option2">Un peu</label><br>
+          
+          <input type="radio" name="q1" value="3">
+          <label for="option3">Uniquement basé sur des blocs</label><br>
+
+          <input type="radio" name="q1" value="3">
+          <label for="option3">Beaucoup de codage</label><br>
+          
+          <button id="q1" onclick="nextQ('q1')">Soumettre</button>
+        </div>
+  
+        <div class="q-container content">
+          <h1>Question 2</h1>
+          <h2>Quel est ton niveau de confiance en dactylo ?</h2>
+          
+          <input type="radio" name="q2" value="1">
+          <label for="option1">Pas du tout</label><br>
+          
+          <input type="radio" name="q2" value="2">
+          <label for="option2">Un peu confiant(e)</label><br>
+          
+          <input type="radio" name="q2" value="3">
+          <label for="option3">Très confiant(e)</label><br>
+          
+          <button id="q2" onclick="nextQ('q2')">Soumettre</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>Question 3</h1>
+          <h2>Utilises-tu régulièrement des ordinateurs ?</h2>
+          
+          <input type="radio" name="q3" value="1">
+          <label for="option1">Pas vraiment</label><br>
+          
+          <input type="radio" name="q3" value="2">
+          <label for="option2">Seulement mon téléphone</label><br>
+          
+          <input type="radio" name="q3" value="3">
+          <label for="option3">Un peu à l'école</label><br>
+          
+          <input type="radio" name="q3" value="4">
+          <label for="option3">Tout le temps</label><br>
+          
+          <button id="q3" onclick="nextQ('q3')">Soumettre</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>Question 4</h1>
+          <h2>Combien de ces outils as-tu entendu parler : Scratch, Python et Unity ?</h2>
+          
+          <input type="radio" name="q4" value="1">
+          <label for="option1">1</label><br>
+          
+          <input type="radio" name="q4" value="2">
+          <label for="option2">2</label><br>
+          
+          <input type="radio" name="q4" value="3">
+          <label for="option3">3</label><br>
+          
+          <button id="q4" onclick="nextQ('q4')">Soumettre</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>Question 5</h1>
+          <h2>As-tu déjà utilisé Python ?</h2>
+          
+          <input type="radio" name="q5" value="1">
+          <label for="option1">Jamais</label><br>
+          
+          <input type="radio" name="q5" value="2">
+          <label for="option2">Quelques fois</label><br>
+          
+          <input type="radio" name="q5" value="3">
+          <label for="option3">Tout le temps !</label><br>
+          
+          <button id="q5" onclick="nextQ('q5')">Soumettre</button>
+        </div>
+
+        <div class="q-container content">
+          <h1 id="languagetitle"></h1>
+          <p id="languagetext"></p>
+          <ul>
+            <li id="project1"></li>
+            <li id="project2"></li>
+          </ul>
+          
+        </div>
+
+    </main>
+    </main>
+
+    <!-- Le code de pied de page va ici -->
+    <footer>
+      
+    </footer>
+    <script src="language_quiz.js"></script>
+  </body>
+</html>
