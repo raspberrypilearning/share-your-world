@@ -53,20 +53,20 @@ function scratch() {
   languageHeading.innerText = 'Scratch';
   languageText.innerText =
     'Scratch est un environnement de codage basé sur des blocs \n     Il est parfait pour les débutants, mais aussi pour ceux qui souhaitent acquérir plus de confiance en eux avec le codage. \n     Voici quelques projets qui pourraient te plaire !';
-  project1.innerText = 'projects.raspberrypi.org/en/projects/alien-language';
-  project2.innerText = 'projects.raspberrypi.org/en/projects/beat-the-goalie';
+  project1.innerText = 'projects.raspberrypi.org/fr-FR/projects/alien-language';
+  project2.innerText = 'projects.raspberrypi.org/fr-FR/projects/beat-the-goalie';
 }
 function python() {
   languageHeading.innerText = 'Python';
   languageText.innerText =
     'Python est un langage de programmation textuel. \n     Il utilise des commandes en anglais simple, ce qui le rend plus simple à comprendre. \n     Voici quelques projets qui pourraient te plaire !';
-  project1.innerText = 'projects.raspberrypi.org/en/projects/hello-world';
-  project2.innerText = 'projects.raspberrypi.org/en/projects/colourful-creations';
+  project1.innerText = 'projects.raspberrypi.org/fr-FR/projects/hello-world';
+  project2.innerText = 'projects.raspberrypi.org/fr-FR/projects/colourful-creations';
 }
 function unity() {
   languageHeading.innerText = 'C#';
   languageText.innerText =
     'C# est un langage de programmation textuel plus avancé. \n     Il offre de nombreuses possibilités. Comme créer des jeux avec le moteur Unity ! \n     Voici quelques projets qui pourraient te plaire !';
-  project1.innerText = 'projects.raspberrypi.org/en/projects/explore-a-3d-world';
-  project2.innerText = 'projects.raspberrypi.org/en/projects/star-collector';
+  project1.innerText = 'projects.raspberrypi.org/fr-FR/projects/explore-a-3d-world';
+  project2.innerText = 'projects.raspberrypi.org/fr-FR/projects/star-collector';
 }

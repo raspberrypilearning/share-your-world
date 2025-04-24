@@ -53,20 +53,20 @@ function scratch() {
   languageHeading.innerText = 'Scratch';
   languageText.innerText =
     'Scratch is een blokgebaseerde programmeeromgeving \n     Dit is perfect voor beginners, maar ook voor hen die meer vertrouwen willen krijgen in programmeren. \n     Hier zijn enkele projecten die je misschien leuk vindt!';
-  project1.innerText = 'projects.raspberrypi.org/en/projects/alien-language';
-  project2.innerText = 'projects.raspberrypi.org/en/projects/beat-the-goalie';
+  project1.innerText = 'projects.raspberrypi.org/nl-NL/projects/alien-language';
+  project2.innerText = 'projects.raspberrypi.org/nl-NL/projects/beat-the-goalie';
 }
 function python() {
   languageHeading.innerText = 'Python';
   languageText.innerText =
     'Python is een op tekst gebaseerde programmeertaal. \n     De taal gebruikt opdrachten in eenvoudig Engels, waardoor het makkelijker te begrijpen is. \n     Hier zijn een paar projecten die je misschien leuk vindt!';
-  project1.innerText = 'projects.raspberrypi.org/en/projects/hello-world';
-  project2.innerText = 'projects.raspberrypi.org/en/projects/colourful-creations';
+  project1.innerText = 'projects.raspberrypi.org/nl-NL/projects/hello-world';
+  project2.innerText = 'projects.raspberrypi.org/nl-NL/projects/colourful-creations';
 }
 function unity() {
   languageHeading.innerText = 'C#';
   languageText.innerText =
     'C# is een meer geavanceerde tekstgebaseerde programmeertaal. \n     Er zijn een heleboel geweldige dingen die je ermee kunt doen. Zoals het maken van games met de Unity engine! \n     Hier zijn een paar projecten die je misschien leuk vindt!';
-  project1.innerText = 'projects.raspberrypi.org/en/projects/explore-a-3d-world';
-  project2.innerText = 'projects.raspberrypi.org/en/projects/star-collector';
+  project1.innerText = 'projects.raspberrypi.org/nl-NL/projects/explore-a-3d-world';
+  project2.innerText = 'projects.raspberrypi.org/nl-NL/projects/star-collector';
 }
