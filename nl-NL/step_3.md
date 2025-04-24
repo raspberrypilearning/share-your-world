@@ -12,7 +12,7 @@ Nu is het tijd om jouw interactieve website te bouwen en jouw onderwerp met de w
 
 **Tip:** Plan jouw project zodat je de hele webpagina kunt maken in de tijd die je nu hebt voorzien en vervolgens het project kunt upgraden als je nog tijd over hebt.
 
-\*\*Tip: \*\* Vergeet niet om je project elke keer te testen wanneer je iets toevoegt. Het is veel gemakkelijker om bugs te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
+**Tip:** Vergeet niet om je project elke keer te testen wanneer je iets toevoegt. Het is veel gemakkelijker om bugs te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
 ### Creëer je eigen palet
 
