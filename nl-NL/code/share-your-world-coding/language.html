@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- Titel die in webbrowsers wordt weergegeven -->
+    <title>De titel van mijn website</title>
+    <!-- CSS-stijlbestanden toevoegen -->
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="default.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <!-- De code voor de navigatiebalk komt hier -->
+    <header>
+      <nav>
+        <div class="nav-items">
+          <a href="index.html">Home</a>
+          <a class="active" href="language.html">Zoek een taal</a>
+        </div>
+      </nav>
+      <div class="hero-image"></div>
+    </header>
+
+    <!-- De hoofdinhoud van de webpagina bevindt zich tussen de main tags -->
+    <main>
+      <main>
+        <section>
+          <h1>Zoek de taal die bij jou past!</h1>
+          <p>Doe deze quiz en ontdek welke programmeertaal bij jou past!</p>
+        </section>
+        <section id="alert"></section>
+        <div class="q-container content">
+          <h1>Vraag 1</h1>
+          <h2>Heb je al ervaring met programmeren?</h2>
+  
+          <input type="radio" name="q1" value="1">
+          <label for="option1">Helemaal geen</label><br>
+          
+          <input type="radio" name="q1" value="2">
+          <label for="option2">Een beetje</label><br>
+          
+          <input type="radio" name="q1" value="3">
+          <label for="option3">Alleen met block based</label><br>
+
+          <input type="radio" name="q1" value="3">
+          <label for="option3">Heel veel</label><br>
+          
+          <button id="q1" onclick="nextQ('q1')">Bevestigen</button>
+        </div>
+  
+        <div class="q-container content">
+          <h1>Vraag 2</h1>
+          <h2>Hoe goed kun je typen?</h2>
+          
+          <input type="radio" name="q2" value="1">
+          <label for="option1">Helemaal niet</label><br>
+          
+          <input type="radio" name="q2" value="2">
+          <label for="option2">Een beetje</label><br>
+          
+          <input type="radio" name="q2" value="3">
+          <label for="option3">Heel goed</label><br>
+          
+          <button id="q2" onclick="nextQ('q2')">Bevestigen</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>Vraag 3</h1>
+          <h2>Gebruik je regelmatig computers?</h2>
+          
+          <input type="radio" name="q3" value="1">
+          <label for="option1">Niet echt</label><br>
+          
+          <input type="radio" name="q3" value="2">
+          <label for="option2">Alleen mijn telefoon</label><br>
+          
+          <input type="radio" name="q3" value="3">
+          <label for="option3">een beetje op school</label><br>
+          
+          <input type="radio" name="q3" value="4">
+          <label for="option3">Altijd</label><br>
+          
+          <button id="q3" onclick="nextQ('q3')">Bevestigen</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>Vraag 4</h1>
+          <h2>Van welke van de volgende tools heb je al eens gehoord: Scratch, Python en Unity?</h2>
+          
+          <input type="radio" name="q4" value="1">
+          <label for="option1">1</label><br>
+          
+          <input type="radio" name="q4" value="2">
+          <label for="option2">2</label><br>
+          
+          <input type="radio" name="q4" value="3">
+          <label for="option3">3</label><br>
+          
+          <button id="q4" onclick="nextQ('q4')">Bevestigen</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>Vraag 5</h1>
+          <h2>Heb je Python al eens gebruikt?</h2>
+          
+          <input type="radio" name="q5" value="1">
+          <label for="option1">Nooit</label><br>
+          
+          <input type="radio" name="q5" value="2">
+          <label for="option2">Een paar keer</label><br>
+          
+          <input type="radio" name="q5" value="3">
+          <label for="option3">Al heel vaak!</label><br>
+          
+          <button id="q5" onclick="nextQ('q5')">Bevestigen</button>
+        </div>
+
+        <div class="q-container content">
+          <h1 id="languagetitle"></h1>
+          <p id="languagetext"></p>
+          <ul>
+            <li id="project1"></li>
+            <li id="project2"></li>
+          </ul>
+          
+        </div>
+
+    </main>
+    </main>
+
+    <!-- Code voor de voettekst komt hier -->
+    <footer>
+      
+    </footer>
+    <script src="language_quiz.js"></script>
+  </body>
+</html>

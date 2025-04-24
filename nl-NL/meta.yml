@@ -1,0 +1,22 @@
+---
+title: Deel je wereld
+hero_image: images/banner.png
+description: Bouw een interactieve website om een deel van je wereld te delen
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-3-25"
+steps:
+  - title: Inleiding
+  - title: Jouw onderwerp
+  - title: Bouw en test
+    completion:
+      - engaged
+  - title: Deel
+    completion:
+      - internal
+  - title: Reflectie
+    completion:
+      - external
+  - title: Verbeter je project
+  - title: Wat kun je verder nog doen?
