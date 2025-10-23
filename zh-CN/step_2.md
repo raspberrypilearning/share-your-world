@@ -25,7 +25,7 @@
 - 📙 历史 — 历史的某个片段或时期：各个时期发生的事件、人物或地点
 - 🔬 科学 – 研究领域：研究、发现、近期或过去的成果
 
-\*\*提示：\*\*选择你感兴趣的内容。 你可以邀请用户进入你的世界的一部分。
+**提示：**选择你感兴趣的内容。 你可以邀请用户进入你的世界的一部分。
 
 你也许可以利用你在[选择你最喜欢的](https://projects.raspberrypi.org/zh-CN/projects/pick-your-favourite){:target="_blank"} 或者 [测验时间！](https://projects.raspberrypi.org/zh-CN/projects/quiz-time){:target="_blank"} 中制作的页面来构建一个更大的网站。
 

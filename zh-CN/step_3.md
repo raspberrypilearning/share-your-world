@@ -74,7 +74,7 @@
 
 创建你的网站内容并添加 CSS 样式，让它看起来非常棒！
 
-#### HTML
+### HTML
 
 [[[full-width-section]]]
 
@@ -116,7 +116,7 @@
 
 [[[z-index]]]
 
-#### CSS
+### CSS
 
 [[[web-add-class]]]
 
@@ -178,13 +178,13 @@
 
 将代码添加到你的新文件以增加你的网站的交互性！
 
-#### 使用事件和函数触发 JavaScript
+### 使用事件和函数触发 JavaScript
 
 [[[events-javascript]]]
 
 [[[writing-js-functions]]]
 
-#### 编写 JavaScript 的技巧
+### 编写 JavaScript 的技巧
 
 [[[conditional-statements-js]]]
 
@@ -196,7 +196,7 @@
 
 [[[date-time-javascript]]]
 
-#### 操作 HTML 元素
+### 操作 HTML 元素
 
 [[[dom-manipulation]]]
 
@@ -208,7 +208,7 @@
 
 [[[classlist-property]]]
 
-#### 使用交叉点观察器
+### 使用交叉点观察器
 
 [[[intersection-observer]]]
 
