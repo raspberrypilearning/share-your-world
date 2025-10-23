@@ -44,7 +44,7 @@
   margin-bottom: 10px;
 }
 
-/*Time line styling */
+/* 时间线样式 */
 #timeline {
   position: relative;
   margin: 0px;
@@ -113,7 +113,7 @@
   white-space: nowrap;
 }
 
-/* General Styling */
+/ * 一般样式 */
 .content {
   padding: 20px;
   font: 1.2rem "Anton", sans-serif;
@@ -173,7 +173,7 @@ input:checked + .slider:before {
   color: white;
 }
 
-/* Dark Mode Styles */
+/* 暗色模式样式 */
 body.dark-mode {
   background-color: var(--nav-background-colour);
   color: white;
@@ -223,12 +223,12 @@ body {
 }
 
 .scrolling-section {
-  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-y: auto; /* 启用垂直滚动 */
   position: relative;
   transition: background 0.3s, color 0.3s;
 }
 
-/* Parallax section styling */
+/* 视差部分样式 */
 .bball {
   position: relative;
   background-position: center;
