@@ -7,7 +7,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   width: 100%;
-  min-height: 100vh; /* Make the content fill the page so the footer is at the bottom */
+  min-height: 100vh; /* 使内容填满页面，使页脚位于页面底部 */
   display: flex;
   flex-direction: column;
   font-size: 32px;
@@ -18,9 +18,9 @@ body {
 main {
   height: 100%;
   justify-content: center;
-  margin: 0 auto; /* Center if the browser is really wide */
-  min-width: 25rem; /* Don't let the content get too narrow */
-  max-width: 70rem; /*  Don't let the content get too wide */
+  margin: 0 auto; /* 当浏览器足够宽时居中显示 */
+  min-width: 25rem; /* 不要让内容变得太窄 */
+  max-width: 70rem; /* 不要让内容变得太宽 */
   padding: 0;
 }
 
@@ -33,11 +33,11 @@ section {
   align-content: center;
 }
 
-/* Add your CSS here */
+/* 在这里添加你的 CSS */
 
 
 
-/* Animations */
+/* 动画 */
 
 @keyframes appear {
   from {
