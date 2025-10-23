@@ -1,35 +1,35 @@
-## Upgrade your project
+## 升级你的项目
 
-If you have time, you can upgrade your project. You might already have ideas to add, or you might want to go back to the first step and look at other projects again for more inspiration.
+如果你有时间，你可以升级你的项目。 你可能已经有想法要添加，或者你可能想回到第一步并再次查看其他项目以获得更多灵感。
 
 \--- task ---
 
-On your website you could:
+你可以在自己的网站上：
 
-**Add to the website**
+**添加到网站**
 
-Add new pages to expand the journey for the user.
+添加新页面以扩展用户的旅程。
 
-**Add more content**
+**添加更多内容**
 
-- New sections with different layouts
-- More content for people to read and discover
-- Add to existing content to dive a little deeper
+- 具有不同布局的新部分
+- 更多内容供人们阅读和发现
+- 添加到现有内容以深入了解
 
-**Improve the visual design**
+**改进视觉设计**
 
-- Use interaction styling to change elements when a user interacts with them
-- Add more colours
-- Add more fonts
-- Change the grid layouts
-- Make the design responsive
+- 使用交互样式在用户与元素交互时更改元素
+- 添加更多颜色
+- 添加更多字体
+- 更改网格布局
+- 使设计具有响应性
 
-**Add more interaction with JavaScript**
+**添加更多与 JavaScript 的交互**
 
-- Create new observers to add animations
-- Use events to update more of the content
-- Add choices so the user can make the website their own
-- Use localStorage to save changes made by the user
+- 创建新的观察器来添加动画
+- 使用事件来更新更多内容
+- 添加选项，以便用户可以创建自己的网站
+- 使用 localStorage 保存用户所做的更改
 
 [[[local-storage-javascript]]]
 
