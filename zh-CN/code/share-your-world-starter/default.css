@@ -1,7 +1,7 @@
-/* Import a font
+/* 导入字体
 
 
-/* Set up colour palette and fonts using variables */
+/* 使用变量设置调色板和字体 */
 :root {
   
   --body-background-colour: #000000;
