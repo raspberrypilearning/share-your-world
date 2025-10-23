@@ -1,0 +1,21 @@
+---
+title: 分享你的世界
+hero_image: images/banner.png
+description: 建立一个交互式网站来分享你的世界中的一部分
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-3-25"
+steps:
+  - title: 简介
+  - title: 你的主题
+  - title: 构建和测试
+    completion:
+    - engaged
+  - title: 分享
+    completion:
+    - internal
+  - title: 回顾与思考
+    completion:
+    - external
+  - title: 升级你的项目

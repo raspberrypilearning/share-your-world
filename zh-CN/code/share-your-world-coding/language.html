@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- 网页浏览器中显示的标题 -->
+    <title>我的网站标题</title>
+    <!-- 包含 CSS 样式文件 -->
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="default.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <!-- 导航栏代码在这里 -->
+    <header>
+      <nav>
+        <div class="nav-items">
+          <a href="index.html">主页</a>
+          <a class="active" href="language.html">寻找语言</a>
+        </div>
+      </nav>
+      <div class="hero-image"></div>
+    </header>
+
+    <!-- 网页的主要内容位于 main 标签之间 -->
+    <main>
+      <main>
+        <section>
+          <h1>找到适合你的语言！</h1>
+          <p>参加这个测验来为你找到合适的编程语言！</p>
+        </section>
+        <section id="alert"></section>
+        <div class="q-container content">
+          <h1>问题 1</h1>
+          <h2>你以前做过任何编程吗？</h2>
+  
+          <input type="radio" name="q1" value="1">
+          <label for="option1">完全没有</label><br>
+          
+          <input type="radio" name="q1" value="2">
+          <label for="option2">有一点</label><br>
+          
+          <input type="radio" name="q1" value="3">
+          <label for="option3">仅基于积木块的编程</label><br>
+
+          <input type="radio" name="q1" value="3">
+          <label for="option3">大量编程</label><br>
+          
+          <button id="q1" onclick="nextQ('q1')">提交</button>
+        </div>
+  
+        <div class="q-container content">
+          <h1>问题 2</h1>
+          <h2>你对打字有多大信心？</h2>
+          
+          <input type="radio" name="q2" value="1">
+          <label for="option1">一点也没有</label><br>
+          
+          <input type="radio" name="q2" value="2">
+          <label for="option2">有一点信心</label><br>
+          
+          <input type="radio" name="q2" value="3">
+          <label for="option3">非常有信心</label><br>
+          
+          <button id="q2" onclick="nextQ('q2')">提交</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>问题 3</h1>
+          <h2>你经常使用电脑吗？</h2>
+          
+          <input type="radio" name="q3" value="1">
+          <label for="option1">不经常用</label><br>
+          
+          <input type="radio" name="q3" value="2">
+          <label for="option2">只用手机</label><br>
+          
+          <input type="radio" name="q3" value="3">
+          <label for="option3">在学校偶尔用</label><br>
+          
+          <input type="radio" name="q3" value="4">
+          <label for="option3">一直在用</label><br>
+          
+          <button id="q3" onclick="nextQ('q3')">提交</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>问题 4</h1>
+          <h2>你听说过多少个这样的工具：Scratch、Python 和 Unity？</h2>
+          
+          <input type="radio" name="q4" value="1">
+          <label for="option1">1</label><br>
+          
+          <input type="radio" name="q4" value="2">
+          <label for="option2">2</label><br>
+          
+          <input type="radio" name="q4" value="3">
+          <label for="option3">3</label><br>
+          
+          <button id="q4" onclick="nextQ('q4')">提交</button>
+        </div>
+
+        <div class="q-container content">
+          <h1>问题 5</h1>
+          <h2>你以前使用过 Python 吗？</h2>
+          
+          <input type="radio" name="q5" value="1">
+          <label for="option1">从来没有</label><br>
+          
+          <input type="radio" name="q5" value="2">
+          <label for="option2">用过几次</label><br>
+          
+          <input type="radio" name="q5" value="3">
+          <label for="option3">一直在用！</label><br>
+          
+          <button id="q5" onclick="nextQ('q5')">提交</button>
+        </div>
+
+        <div class="q-container content">
+          <h1 id="languagetitle"></h1>
+          <p id="languagetext"></p>
+          <ul>
+            <li id="project1"></li>
+            <li id="project2"></li>
+          </ul>
+          
+        </div>
+
+    </main>
+    </main>
+
+    <!-- 页脚代码在这里 -->
+    <footer>
+      
+    </footer>
+    <script src="language_quiz.js"></script>
+  </body>
+</html>
