@@ -1,34 +1,33 @@
-## Build and test
+## 构建和测试
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now it's time to build your interactive website and share your topic with the world! 
+现在是时候构建你的交互式网站并与世界分享你的主题了！ 
 
 </div>
 <div>
-![The 'Wildcats' website example](images/wildcats.png){:width="300px"}
+![“野猫队” 网站示例](images/wildcats.png){:width="300px"}</div>
 </div>
-</div>
 
-**Tip:** Plan your project so you can create the whole website in the time you have available and then upgrade the project if you have time left.
+\*\*提示：\*\*规划你的项目，以便你可以在可用的时间内创建整个网站，然后在还有时间的情况下升级项目。
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+\*\*提示：\*\*每次添加内容时，请记住测试你的项目。 在你进行更多的更改之前，查找和修复bug要容易得多。
 
-### Create your palette
+### 创建你的调色板
 
 \--- task ---
 
-Open `default.css` and set up your colours and fonts for the project.
+打开 `default.css` 并为项目设置你的颜色和字体。
 
 [[[contrast-checker]]]
 
 [[[add-colour-variables]]]
 
-Use your colour palettes to set text and background colours.
+使用你的调色板设置文本和背景颜色。
 
 [[[web-primary-secondary]]]
 
-Choose fonts to use on your webpage.
+选择要在你的网页上使用的字体。
 
 [[[google-fonts]]]
 
@@ -36,11 +35,11 @@ Choose fonts to use on your webpage.
 
 \--- /task ---
 
-### Create your homepage
+### 创建你的主页
 
 \--- task ---
 
-Open `index.html` and start to create your homepage.
+打开 `index.html` 并开始创建你的主页。
 
 [[[overall-page-structure]]]
 
@@ -52,11 +51,11 @@ Open `index.html` and start to create your homepage.
 
 \--- /task ---
 
-### Create your other pages
+### 创建你的其他页面
 
 \--- task ---
 
-Create new files for your other pages, add them to your navigation bar.
+为你的其他页面创建新文件，并将其添加到你的导航栏。
 
 [[[editor-add-file]]]
 
@@ -68,11 +67,11 @@ Create new files for your other pages, add them to your navigation bar.
 
 \--- /task ---
 
-### Create and style your content
+### 创建并设计你的内容
 
 \--- task ---
 
-Create the content of your website and add CSS styling to make it look awesome!
+创建你的网站内容并添加 CSS 样式，让它看起来非常棒！
 
 #### HTML
 
@@ -160,15 +159,15 @@ Create the content of your website and add CSS styling to make it look awesome!
 
 \--- task ---
 
-**Click Run** to make sure you are happy with your content. There is a **Debugging** section further down to help you fix any problems.
+**点击运行** 以确保你对你的内容感到满意。 下面有一个**调试**部分可以帮助你解决任何问题。
 
 \--- /task ---
 
-### Add JavaScript to your website
+### 将 JavaScript 添加到你的网站
 
 \--- task ---
 
-Create a new `scripts.js` file and add it to your webpages.
+创建一个新的 `scripts.js` 文件并将其添加到你的网页中。
 
 [[[linking-js-html]]]
 
@@ -176,15 +175,15 @@ Create a new `scripts.js` file and add it to your webpages.
 
 \--- task ---
 
-Add code to your new file to add interactivity to your website!
+将代码添加到你的新文件以增加你的网站的交互性！
 
-#### Trigger your JavaScript with events and functions
+#### 使用事件和函数触发 JavaScript
 
 [[[events-javascript]]]
 
 [[[writing-js-functions]]]
 
-#### Tips for writing JavaScript
+#### 编写 JavaScript 的技巧
 
 [[[conditional-statements-js]]]
 
@@ -196,7 +195,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[date-time-javascript]]]
 
-#### Manipulate HTML elements
+#### 操作 HTML 元素
 
 [[[dom-manipulation]]]
 
@@ -208,7 +207,7 @@ Add code to your new file to add interactivity to your website!
 
 [[[classlist-property]]]
 
-#### Use intersection observers
+#### 使用交叉点观察器
 
 [[[intersection-observer]]]
 
@@ -220,19 +219,19 @@ Add code to your new file to add interactivity to your website!
 
 [[[intersection-observer-thresholds]]]
 
-**Tip:** If you only want your observers for a single page, make a seperate `.js` file and link it **only** on the page where it is needed.
+**提示**：如果你只想在单个页面上使用观察器，请创建一个单独的 `.js` 文件，并**仅在**需要它的页面上链接它。
 
 [[[linking-js-html]]]
 
 \--- /task ---
 
-### Debugging
+### 调试
 
 \--- task ---
 
-**Click Run** and test your project.
+**点击运行**并测试您的项目。
 
-Debug your website and make sure everything works as you intended it to.
+调试你的网站并确保一切按照预期运行。
 
 [[[incorrect-tags]]]
 
@@ -244,17 +243,17 @@ Debug your website and make sure everything works as you intended it to.
 
 [[[web-debug-link]]]
 
-You might find a bug not listed here. Can you figure out how to fix the bug?
+你可能会发现此处未列出的BUG。 你能弄清楚如何修复这个错误吗？
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page if you found a different bug in your project.
+我们很乐意听到你如何修复你遇到的BUG。 如果你在项目中发现了其他BUG，请使用此页面底部的**发送反馈**按钮。
 
 \--- /task ---
 
-### Accessibility check
+### 可访问性检查
 
 \--- task ---
 
-Check that your website is accessible with contrasting colours, alt-text, and that it looks great on all sizes of screen.
+检查你的网站是否可以通过对比色、替代文本进行访问，以及是否在各种尺寸的屏幕上显示良好。
 
 [[[contrast-checker]]]
 
