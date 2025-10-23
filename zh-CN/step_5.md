@@ -1,99 +1,99 @@
-## Reflection
+## 回顾与思考
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the points that apply to your project.
+你是否达到了**项目简介**中的要求？ 想一想你的项目，然后查看下面的清单，并检查适用于你项目的要点。
 
-Does your website:
+你的网站是否：
 
 \--- task ---
 
-Have multiple webpages, with different content and a navigation bar to help a user move between them?
+有多个网页，有不同的内容和导航栏来帮助用户在它们之间移动？
 
 \--- /task ---
 
 \--- task ---
 
-Use a colour palette, fonts, and CSS styles that work well together? You could ask other people for their opinion, but you don't have to make changes if you don't agree with them.
+使用可以良好协作的调色板、字体和 CSS 样式吗？ 你可以询问其他人的意见，但如果你不同意他们的观点，你不必做出改变。
 
 \--- /task ---
 
 \--- task ---
 
-Have multiple types of layout, and at least one grid to organise your content?
+有多种类型的布局，以及至少一个网格来组织你的内容？
 
 \--- /task ---
 
 \--- task ---
 
-Use JavaScript and the DOM to update HTML page elements?
+使用 JavaScript 和 DOM 来更新 HTML 页面元素？
 
 \--- /task ---
 
 \--- task ---
 
-Provide accessibility through a good colour contrast and easily readable font sizes?
+通过良好的色彩对比度和易于阅读的字体大小提供可访问性？
 
 \--- /task ---
 
-Your webpage could:
+你的网页可以：
 
 \--- task ---
 
-Have different adaptive layouts that respond to the size of the web browser.
-
-\--- /task ---
-
-\--- task ---
-
-Use an animation and a JavaScript observer to add some movement and interactivity.
+具有响应网页浏览器不同大小的自适应布局。
 
 \--- /task ---
 
 \--- task ---
 
-Use multiple JavaScript events to update HTML page elements to change the text or make the whole element appear or disappear.
+使用动画和 JavaScript 观察器来添加一些动作和交互性。
 
 \--- /task ---
 
 \--- task ---
 
-Be shared to the Raspberry Pi Foundation community gallery to inspire others.
-
-\--- /task ---
-
-When you reflect on how you made your website, it will help you in your future projects.
-
-Answer the questions below. You can draw, write, type in a document, talk to someone, or answer the questions in your own creative way that works best for you.
-
-\--- task ---
-
-How did you choose the topic for your website?
+使用多个 JavaScript 事件来更新 HTML 页面元素以更改文本或使整个元素出现或消失。
 
 \--- /task ---
 
 \--- task ---
 
-Which HTML, CSS, or JavaScript technique do you like best?
+分享到树莓派基金会社区画廊以激励他人。
+
+\--- /task ---
+
+当你反思如何创建自己的网站时，它将对你未来的项目有所帮助。
+
+回答以下问题。 你可以绘画、书写、输入文档、与某人交谈或以最适合你的创造性方式回答问题。
+
+\--- task ---
+
+你是如何为你的网站选择主题的？
+
+\--- /task ---
+
+\--- task ---
+
+你最喜欢哪种 HTML、CSS 或 JavaScript 技术？
 
 \--- /task ---
 
 \--- task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Modern web design has turned websites from static and boring walls of information into ways of providing fun and engaging experiences to a user. The web takes users on a journey and transports them to somewhere completely new!
+现代网页设计已将网站从静态和无聊的信息墙转变为向用户提供有趣和引人入胜的体验。 Web 带领用户踏上旅程，将他们带到一个全新的地方！
 </p>
 
-In the 'More web' path you have built impressive new CSS and JavaScript skills to make your websites pop with excitement.
+在“更多 Web”路径中，你已经建立了令人印象深刻的新的 CSS 和 JavaScript 技能，使你的网站充满活力。
 
-Which of these new skills was your favourite to use?
+你最喜欢使用这些新技能中的哪一个？
 
 \--- /task ---
 
-### Now you are a skilled web developer & designer!
+### 现在你是一位熟练的 Web 开发人员和设计师！
 
-Take a moment to celebrate what you have made.
+花一点时间庆祝一下你所取得的成就。
 
 \--- task ---
 
-Where will you take your new powers? Who will you show your website to? What will you make next?
+你将把你的新力量带到哪里？ 你会向谁展示你的网站？ 你接下来会做什么？
 
 \--- /task ---
