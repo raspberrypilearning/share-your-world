@@ -1,69 +1,69 @@
-## Your idea
+## 你的想法
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will plan your website, pick a topic, and design the look of your webpage.
+在此步骤中，你将规划你的网站，选择一个主题，并设计你的网页的外观。
 </div>
 <div>
-![A notebook showing wireframe sketches of webpages. A smartphone is next to it. Image credit: https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
+![显示网页线框草图的笔记本。 旁边有一部智能手机。 图片来源: https://pixabay.com/photos/plans-design-web-design-designer-1867745/](images/webDesign.jpg){:width="300px"}
 </div>
 </div>
 
-### Which part of your world would you like to share?
+### 你想分享你的世界的哪一部分？
 
 \--- task ---
 
-Think about the purpose of your website: which part of your world would you like to show off?
+想一想你的网站的目的：你想展示你的世界的哪一部分？
 
-It could be:
+它可能是：
 
-- 🎊 Cultural – something from your culture: a festival, celebration, custom, or special location
-- 😁 Hobbies – a favourite hobby or passtime: books, TV, movies, obsession, or fandom
-- ⚽️ Sports – a sport you play or watch
-- 👗 Fashion – styles, brands, trends, decades, or designers
-- 💻 Tech – programming, computers, or the latest technology
-- 📙 History – a piece or era of history: events, people, or places throughout time
-- 🔬 Science – an area of research: studies, discoveries, recent or historical
+- 🎊 文化 — 来自你文化中的某些事物：节日、庆典、习俗或特殊地点
+- 😁 爱好 – 最喜欢的爱好或娱乐：书籍、电视、电影、痴迷或追捧的事物
+- ⚽️ 运动 – 你参与或观看的运动
+- 👗 时尚 — 风格、品牌、潮流、年代或设计师
+- 💻 科技 — 编程、计算机或最新技术
+- 📙 历史 — 历史的某个片段或时期：各个时期发生的事件、人物或地点
+- 🔬 科学 – 研究领域：研究、发现、近期或过去的成果
 
-**Tip:** Choose something that you are interested in. A part of your world that you can invite the user into.
+\*\*提示：\*\*选择你感兴趣的内容。 你可以邀请用户进入你的世界的一部分。
 
-You might want to build on the pages you made in [Pick your favourite](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} or [Quiz time!](https://projects.raspberrypi.org/en/projects/quiz-time){:target="_blank"} and create a larger website.
+你也许可以利用你在[选择你最喜欢的](https://projects.raspberrypi.org/en/projects/pick-your-favourite){:target="_blank"} 或者 [测验时间！](https://projects.raspberrypi.org/en/projects/quiz-time){:target="_blank"} 中制作的页面来构建一个更大的网站。
 
 \--- /task ---
 
-### Who is it for?
+### 它适合谁？
 
 \--- task ---
 
-Think about who you will make your website for. **Who** are you inviting into your world? It might be helpful to consider what you want to share about your topic.
+想一想你将为谁创建你的网站。 你邀请**谁**进入你的世界？ 考虑一下你想要分享的主题可能会有所帮助。
 
-- What does everyone need to know about your topic?
-- How will you lay out the information?
-- What can you do to make the website and topic **awesome** for them?
-
-\--- /task ---
-
-\--- task ---
-
-If you have paper and a pen or pencil, you could write down your ideas for your webpage.
-
-What colours will you use?
-
-Will you need any particular images?
-
-What will the titles of your pages be?
+- 关于你的主题，每个人都需要了解什么？
+- 你将如何布置这些信息？
+- 你可以做些什么来让网站和主题对他们来说**很棒**？
 
 \--- /task ---
 
 \--- task ---
 
-Open the [Share your world starter project](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. The Raspberry Pi Code Editor will open in a new tab.
+如果你有纸和笔，你可以写下你对网页的想法。
+
+你将使用什么颜色？
+
+你需要任何特定的图像吗？
+
+你的页面标题是什么？
 
 \--- /task ---
 
 \--- task ---
 
-Change the `<title>` element text to the title of your page.
+打开 [选择你最喜欢的 入门项目](https://editor.raspberrypi.org/en/projects/share-your-world-starter){:target="_blank"}. 树莓派代码编辑器将在新标签中打开
+
+\--- /task ---
+
+\--- task ---
+
+将 `<title>` 元素文本更改为页面的标题。
 
 [[[web-add-title-head]]]
 
