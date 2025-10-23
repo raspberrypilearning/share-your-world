@@ -1,9 +1,9 @@
-## Share
+## 分享
 
-Now is the time to share your webpage so that it can receive visitors.
+现在是时候分享你的网页以便它能够吸引访客了。
 
-**Note:** Remember to check that you haven't included any personal information in your webpage.
+**注意：** 请记住检查你的网页中没有包含任何个人信息。
 
-Why not show your project to one of your friends?
+为什么不向你的一位朋友展示你的项目呢？
 
-Why not invite your friends to create a project? Let them know how you had fun.
+为什么不邀请你的朋友来创建一个项目呢？ 让他们知道你玩得有多开心。
