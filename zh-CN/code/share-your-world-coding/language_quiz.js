@@ -52,27 +52,21 @@ const project2 = document.querySelector('#project2');
 function scratch() {
   languageHeading.innerText = 'Scratch';
   languageText.innerText =
-    'Scratch is a block based coding environment \n \
-    It is perfect for beginners but also those who want to get more confident with coding. \n \
-    Here are some projects you might like!';
+    'Scratch 是一个基于积木块的编程环境 \n     它非常适合初学者，也适合那些想要对编程更有信心的人。 \n     这里有一些你可能会喜欢的项目！';
   project1.innerText = 'projects.raspberrypi.org/en/projects/alien-language';
   project2.innerText = 'projects.raspberrypi.org/en/projects/beat-the-goalie';
 }
 function python() {
   languageHeading.innerText = 'Python';
   languageText.innerText =
-    'Python is a text-based programming language. \n \
-    It uses commands in plain English, which makes it simpler to understand. \n \
-    Here are some projects you might like!';
+    'Python 是一种基于文本的编程语言。 \n     它使用简单的英语命令，这使得它更容易理解。 \n     这里有一些你可能会喜欢的项目！';
   project1.innerText = 'projects.raspberrypi.org/en/projects/hello-world';
   project2.innerText = 'projects.raspberrypi.org/en/projects/colourful-creations';
 }
 function unity() {
   languageHeading.innerText = 'C#';
   languageText.innerText =
-    'C# is a more advanced text based programming language. \n \
-    There are loads of awesome things you can do with it. Like creating games with the Unity engine! \n \
-    Here are some projects you might like!';
+    'C# 是一种更高级的基于文本的编程语言。 \n     你可以用它做很多很棒的事情。比如用 Unity 引擎创建游戏！ \n     这里有一些你可能会喜欢的项目！';
   project1.innerText = 'projects.raspberrypi.org/en/projects/explore-a-3d-world';
   project2.innerText = 'projects.raspberrypi.org/en/projects/star-collector';
 }
