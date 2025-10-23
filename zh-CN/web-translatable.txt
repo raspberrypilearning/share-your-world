@@ -1,71 +1,71 @@
-Title shown in web browsers
+网页浏览器中显示的标题
 
-The navigation bar code goes here
+导航栏代码在这里
 
-The main content for the web page goes between the main tags
+网页的主要内容位于 main 标签之间
 
-Footer code goes here
+页脚代码在这里
 
-Please pick an option!
+请选择一个选项！
 
-Language quiz
+语言测验
 
-Update score
+更新分数
 
-Hide Alert
+隐藏警报
 
-Increase score
+增加分数
 
-Change question
+更改问题
 
-Languages
+语言
 
-Include CSS style files
+包含 CSS 样式文件
 
-Observers
+观察器
 
-COLOUR MODE
+色彩模式
 
-Check if colour mode preference is stored in local storage
+检查颜色模式偏好设置是否存储在本地存储中
 
-Set initial colour mode state based on the stored preference
+根据存储的偏好设置初始颜色模式状态
 
-Check if colour mode is already active
+检查颜色模式是否已激活
 
-Update body class and store the user's preference in local storage
+更新 body 类并将用户的偏好存储在本地存储中
 
-PARALLAX SCROLLING
+视差滚动
 
-Fade-in effect
+淡入效果
 
-Stop observing once the section is visible
+当该部分可见时停止观察
 
-TIMELINE
+时间线
 
-Initial events
+初始事件
 
-Wildcats formed
+野猫队成立
 
-Joined National League
+加入国家联赛
 
-Won Championship trophy
+获得冠军奖杯
 
-Now
+现在
 
-Function to put events on the timeline
+将事件放在时间线上的函数
 
-Calculate the percentage width based on the time difference
+根据时间差计算百分比宽度
 
-Function to add a new event
+添加新事件的函数
 
-Sort events chronologically
+按时间顺序对事件进行排序
 
-Add initial events when the page loads
+页面加载时添加初始事件
 
-Mouse rollover
+鼠标悬停
 
-Add event listener for adding a new event
+添加事件监听器以添加新事件
 
-Please fill in both the year and event fields.
+请填写年份和事件字段。
 
 
